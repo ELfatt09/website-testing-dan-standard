@@ -1,13 +1,126 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.navbar {
+    background-color: #34c759;
+    color: #fff;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-right: 1rem;
+}
+
+.navbar .navbar-nav {
+    margin-left: auto;
+}
+
+.navbar .nav-link {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    transition: color 0.2s ease-in-out;
+}
+
+.navbar .nav-link:hover {
+    color: #fff;
+    background-color: #34c759;
+    border-radius: 10px;
+    padding: 0.5rem 1rem;
+}
+
+.navbar .dropdown-menu {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+}
+
+.navbar .dropdown-item {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    transition: color 0.2s ease-in-out;
+}
+
+.navbar .dropdown-item:hover {
+    color: #34c759;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 0.5rem 1rem;
+}
+
+.navbar.scrolled {
+    background-color: #fff;
+    color: #34c759;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.hero {
+    background: url('https://via.placeholder.com/1920x600') no-repeat center center/cover;
+    padding: 6rem 1rem;
+    text-align: center;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+}
+
+.hero .cta-btn {
+    background-color: #34c759;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+    font-size: 1.25rem;
+    text-decoration: none;
+}
+
+.services {
+    padding: 4rem 0;
+    background-color: #f8f9fa;
+}
+
+.services h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.services .service-item {
+    text-align: center;
+    padding: 1rem;
+}
+
+.services .service-item:hover {
+    transform: scale(1.05);
+    transition: 0.3s ease-in-out;
+}
+
+
+.services .service-item img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}
+
+.services .service-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.services .service-item p {
+    font-size: 1rem;
+    color: #6c757d;
 }
