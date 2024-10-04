@@ -1,42 +1,65 @@
-import React from 'react'
+import React from 'react';
+import TestingTable from '../../components/TestingTable';
 
 const EnergiAnginTesting = () => {
     const data = [
         {
             no: 1,
-            service: 'Jasa Layanan 1',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-            provider: 'Provider 1',
-            link: '#'
+            service: 'Jasa Layanan',
+            description: 'Jasa layanan mencakup: Pemetaan, Pra Studi Kelayakan, Studi Kelayakan, Detail Engineering Design, dan Pengembangan Pembangkit Listrik Tenaga Bayu',
+            provider: {
+                name: 'Balai Besar Survei dan Pengujian Ketenagalistrikan, Energi Baru, Terbarukan, dan Konservasi Energi',
+                address: 'Jalan Ciledug Raya Kav 109, Cipulir, Kebayoran Lama, Jakarta Selatan',
+                contact: {
+                    phone: '+62 (021) 72798311',
+                    fax: '+62 (021) 72798202',
+                },
+                coordinates: [-6.238611, 106.766944], // Koordinat Lokasi: 6°14'19"S 106°46'01"E
+            },
+            link: 'https://p3tkebt.esdm.go.id/home',
         },
         {
             no: 2,
-            service: 'Jasa Layanan 2',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-            provider: 'Provider 2',
-            link: '#'
+            service: 'Aerodinamika, Aeroelastika, dan Aeroakustika (Model Uji Wind Tunnel)',
+            description: 'Model uji wind tunnel (terowongan angin) dirancang dan dibuat untuk kepentingan pengujian eksperimental pada wind tunnel. Pembuatan model uji sudah termasuk jasa desain dengan perangkat lunak CATIA, manufaktur menggunakan mesin CNC dan peralatan lainnya',
+            provider: {
+                name: 'Direktorat Pengelolaan Laboratorium, Fasilitas Riset, dan Kawasan Sains dan Teknologi',
+                address: 'Puspiptek - Serpong, Kawasan Sains dan Teknologi BJ. Habibie Gedung 240, Serpong, Tangerang Selatan, Banten',
+                contact: {
+                    email: 'layanan_sains@brin.go.id',
+                },
+                coordinates: null, // Tidak ada koordinat
+            },
+            link: 'https://elsa.brin.go.id/layanan/index/Pembuatan%20Model%20Uji%20Wind%20Tunnel%20di%20LA3/3814',
         },
         {
             no: 3,
-            service: 'Jasa Layanan 3',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-            provider: 'Provider 3',
-            link: '#'
+            service: 'Kalibrasi Anemometer',
+            description: 'Kalibrasi alat ukur anemometer. Kalibrasi sudah termasuk stiker dan sertifikat kalibrasi KAN ISO 17025.',
+            provider: {
+                name: 'Prokalindo Global Presisi',
+                address: 'Jl. Tipar Sari No.12, Mekarsari, Kec. Cimanggis, Kota Depok, Jawa Barat 16452',
+                contact: {
+                    link: 'https://prokalindo.com/?p=4388',
+                },
+                coordinates: null, // Tidak ada koordinat
+            },
+            link: 'https://prokalindo.com/?p=4388',
         },
         {
             no: 4,
-            service: 'Jasa Layanan 4',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-            provider: 'Provider 4',
-            link: '#'
+            service: 'Jasa Kalibrasi Alat Meteorologi, Klimatologi, dan Geofisika',
+            description: 'Jasa Kalibrasi Portable Weather Station (5 – 11 sensor)',
+            provider: {
+                name: 'PTSP Online BMKG',
+                address: '',
+                contact: {
+                    link: 'https://ptsp.bmkg.go.id/katalog_pelayanan/layanan/5',
+                },
+                coordinates: null, // Tidak ada koordinat
+            },
+            link: 'https://ptsp.bmkg.go.id/katalog_pelayanan/layanan/5',
         },
-        {
-            no: 5,
-            service: 'testing 1',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-            provider: 'Provider 5',
-            link: '#'
-        }
     ];
 
     return (
@@ -45,30 +68,7 @@ const EnergiAnginTesting = () => {
                 <h1 className="display-3">Energi Angin</h1>
                 <h3 className="display-6 text-secondary">Testing</h3>
             </div>
-            <div className="table-responsive">
-                <table className="table table-bordered table-striped">
-                    <thead className="bg-success text-white">
-                        <tr>
-                            <th>No</th>
-                            <th>Testing/Jasa Layanan</th>
-                            <th>Deskripsi Singkat</th>
-                            <th>Service Provider</th>
-                            <th>Link</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {data.map(item => (
-                            <tr key={item.no}>
-                                <td>{item.no}</td>
-                                <td>{item.service}</td>
-                                <td>{item.description}</td>
-                                <td>{item.provider}</td>
-                                <td><a href={item.link} target="_blank" className="btn btn-outline-success w-100 px-3 py-2 rounded-pill" rel="noopener noreferrer">Link</a></td>
-                            </tr>
-                        ))}
-                    </tbody>
-                </table>
-            </div>
+            <TestingTable data={data} />
         </div>
     );
 };

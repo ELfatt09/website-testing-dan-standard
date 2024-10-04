@@ -3,7 +3,7 @@ import React from 'react';
 function Layout({ children }) {
     return (
         <>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-success" id="navbar">
+            <nav className="navbar navbar-expand-lg navbar-dark bg-success sticky-top" id="navbar">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="#">
                         <img src="logo.png" alt="Logo" width="30" height="30" />
@@ -78,7 +78,7 @@ function Layout({ children }) {
             {/* Hero Section */}
             <section className="hero">
                 <div className="container">
-                    <h1>Database Testing and Standard for Energy</h1>
+                    <h1 className="display-2">Database Testing and Standard for Energy</h1>
                 </div>
             </section>
 
