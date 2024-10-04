@@ -20,9 +20,9 @@ function Layout({ children }) {
                                 </a>
                                 <div className="dropdown-menu" aria-labelledby="navbarDropdownTesting">
                                     <a className="dropdown-item" href="/testing/energi-angin">ENERGI ANGIN</a>
-                                    <a className="dropdown-item" href="#">ENERGI SURYA</a>
-                                    <a className="dropdown-item" href="#">ENERGI AIR</a>
-                                    <a className="dropdown-item" href="#">ENERGI BIOMASSA</a>
+                                    <a className="dropdown-item" href="/testing/energi-surya">ENERGI SURYA</a>
+                                    <a className="dropdown-item" href="/testing/energi-air">ENERGI AIR</a>
+                                    <a className="dropdown-item" href="/testing/energi-biomassa">ENERGI BIOMASSA</a>
                                 </div>
                             </li>
                             <li className="nav-item dropdown">

@@ -41,10 +41,13 @@ const EnergiAnginTesting = () => {
 
     return (
         <div className="container mt-5">
-            <h2 className="mb-4 text-success">Energi Angin</h2>
+            <div className="mb-4">
+                <h1 className="display-3">Energi Angin</h1>
+                <h3 className="display-6 text-secondary">Testing</h3>
+            </div>
             <div className="table-responsive">
                 <table className="table table-bordered table-striped">
-                    <thead>
+                    <thead className="bg-success text-white">
                         <tr>
                             <th>No</th>
                             <th>Testing/Jasa Layanan</th>
@@ -60,7 +63,7 @@ const EnergiAnginTesting = () => {
                                 <td>{item.service}</td>
                                 <td>{item.description}</td>
                                 <td>{item.provider}</td>
-                                <td><a href={item.link} target="_blank" className="btn btn-success w-100 px-quto py-2 rounded-pill" rel="noopener noreferrer">Link</a></td>
+                                <td><a href={item.link} target="_blank" className="btn btn-outline-success w-100 px-3 py-2 rounded-pill" rel="noopener noreferrer">Link</a></td>
                             </tr>
                         ))}
                     </tbody>
