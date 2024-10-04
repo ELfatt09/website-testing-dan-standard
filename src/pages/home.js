@@ -53,7 +53,7 @@ const Home = () => {
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta mi erat, non tristique quam ornare at. Etiam tempus, felis et elementum finibus, enim sapien commodo mauris, id elementum metus odio vitae ipsum. Morbi porttitor mi sit amet ante consequat efficitur. Nulla facilisi. Donec a erat pretium, volutpat felis id, varius mauris. Mauris quis luctus sem. Quisque ultrices risus id risus volutpat, ut tempus est ornare. Morbi eu diam congue, semper libero ac, sollicitudin nulla. Fusce laoreet consectetur quam, et condimentum mauris efficitur sit amet. Curabitur sed lorem nisl. Aliquam vel dui ornare, aliquam quam a, lobortis sapien. Morbi convallis quis velit sed dictum. Ut ex risus, dictum et mi nec, egestas pharetra nibh. Morbi volutpat arcu vel gravida aliquam. Nulla eget purus massa.
                                 </p>
-                                <a className="btn btn-success px-4 py-2 rounded-pill" href="#">Lorem</a>
+                                <a className="btn btn-outline-success px-4 py-2 rounded-pill" href="#">Lorem</a>
                             </div>
                         </div>
                     </div>
@@ -66,7 +66,7 @@ const Home = () => {
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta mi erat, non tristique quam ornare at. Etiam tempus, felis et elementum finibus, enim sapien commodo mauris, id elementum metus odio vitae ipsum. Morbi porttitor mi sit amet ante consequat efficitur. Nulla facilisi. Donec a erat pretium, volutpat felis id, varius mauris. Mauris quis luctus sem. Quisque ultrices risus id risus volutpat, ut tempus est ornare. Morbi eu diam congue, semper libero ac, sollicitudin nulla. Fusce laoreet consectetur quam, et condimentum mauris efficitur sit amet. Curabitur sed lorem nisl. Aliquam vel dui ornare, aliquam quam a, lobortis sapien. Morbi convallis quis velit sed dictum. Ut ex risus, dictum et mi nec, egestas pharetra nibh. Morbi volutpat arcu vel gravida aliquam. Nulla eget purus massa.
                                 </p>
-                                <a className="btn btn-success px-4 py-2 rounded-pill" href="#">Lorem</a>
+                                <a className="btn btn-outline-success px-4 py-2 rounded-pill" href="#">Lorem</a>
                             </div>
                         </div>
                     </div>
@@ -80,7 +80,7 @@ const Home = () => {
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta mi erat, non tristique quam ornare at. Etiam tempus, felis et elementum finibus, enim sapien commodo mauris, id elementum metus odio vitae ipsum. Morbi porttitor mi sit amet ante consequat efficitur. Nulla facilisi. Donec a erat pretium, volutpat felis id, varius mauris. Mauris quis luctus sem. Quisque ultrices risus id risus volutpat, ut tempus est ornare. Morbi eu diam congue, semper libero ac, sollicitudin nulla. Fusce laoreet consectetur quam, et condimentum mauris efficitur sit amet. Curabitur sed lorem nisl. Aliquam vel dui ornare, aliquam quam a, lobortis sapien. Morbi convallis quis velit sed dictum. Ut ex risus, dictum et mi nec, egestas pharetra nibh. Morbi volutpat arcu vel gravida aliquam. Nulla eget purus massa.
                                 </p>
-                                <a className="btn btn-success px-4 py-2 rounded-pill" href="#">Lorem</a>
+                                <a className="btn btn-outline-success px-4 py-2 rounded-pill" href="#">Lorem</a>
                             </div>
                         </div>
                     </div>
