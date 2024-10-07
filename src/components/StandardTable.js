@@ -8,52 +8,26 @@ function StandardTable({ data }) {
                 <thead className="bg-success text-white">
                     <tr>
                         <th>No</th>
-                        <th>Testing/Jasa Layanan</th>
+                        <th>Item</th>
+                        <th>Nama</th>
                         <th>Deskripsi Singkat</th>
-                        <th>Service Provider</th>
-                        <th>Link</th>
                     </tr>
                 </thead>
                 <tbody>
-                    {data.map((item, index) => (
+                    {data.map((item) => (
                         <tr key={item.no}>
-                            <td>{item.no}</td>
-                            <td>{item.service}</td>
-                            <td>{item.description}</td>
-                            <td
-                                colSpan={item.provider ? 1 : 2}
-                                className={item.provider ? '' : 'text-center'}
-                            >
-                                {item.provider ? (
-                                    <React.Fragment>
-                                        <p><strong>{item.provider.name}</strong></p>
-                                        {item.provider.contact && (
-                                            <div>
-                                                {item.provider.contact.phone && <p>Telp: {item.provider.contact.phone}</p>}
-                                                {item.provider.contact.fax && <p>Fax: {item.provider.contact.fax}</p>}
-                                                {item.provider.contact.email && <p>Email: {item.provider.contact.email}</p>}
-                                            </div>
-                                        )}
-                                        <p>{item.provider.address}</p>
-                                        <MapWithProvider
-                                            coordinates={item.provider.coordinates} />
-                                    </React.Fragment>
+                            <td className="text-center">{item.no}</td>
+                            <td>
+                                {item.link ? (
+                                    <a href={item.link} target="_blank" rel="noopener noreferrer" alt={item.item}>{item.item}</a>
                                 ) : (
-                                    <p className="text-center">-</p>
+                                    <span>{item.item}</span>
                                 )}
                             </td>
-                            {item.provider && (
-                                <td>
-                                    <a
-                                        href={item.link}
-                                        target="_blank"
-                                        className="btn btn-outline-success w-100 px-3 py-2 rounded-pill"
-                                        rel="noopener noreferrer"
-                                    >
-                                        Link
-                                    </a>
-                                </td>
-                            )}
+                            <td>{item.nama}</td>
+                            <td>{item.description.map((link) => (
+                                <p><a href='{link}'>{link}</a></p>
+                            ))}</td>
                         </tr>
                     ))}
                 </tbody>

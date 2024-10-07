@@ -5,7 +5,7 @@ function Layout({ children }) {
         <>
             <nav className="navbar navbar-expand-lg navbar-dark bg-success sticky-top" id="navbar">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="#">
+                    <a className="navbar-brand" href="/">
                         <img src="logo.png" alt="Logo" width="30" height="30" />
                     </a>
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
@@ -20,8 +20,8 @@ function Layout({ children }) {
                                 </a>
                                 <div className="dropdown-menu" aria-labelledby="navbarDropdownTesting">
                                     <a className="dropdown-item" href="/testing/energi-angin">ENERGI ANGIN</a>
-                                    <a className="dropdown-item" href="/testing/energi-surya">ENERGI SURYA</a>
                                     <a className="dropdown-item" href="/testing/energi-air">ENERGI AIR</a>
+                                    <a className="dropdown-item" href="/testing/energi-surya">ENERGI SURYA</a>
                                     <a className="dropdown-item" href="/testing/energi-biomassa">ENERGI BIOMASSA</a>
                                 </div>
                             </li>
@@ -31,12 +31,12 @@ function Layout({ children }) {
                                     STANDARD
                                 </a>
                                 <div className="dropdown-menu" aria-labelledby="navbarDropdownStandard">
-                                    <a className="dropdown-item" href="#">ENERGI ANGIN</a>
-                                    <a className="dropdown-item" href="#">ENERGI SURYA</a>
-                                    <a className="dropdown-item" href="#">ENERGI AIR</a>
-                                    <a className="dropdown-item" href="#">ENERGI BIOMASSA</a>
-                                    <a className="dropdown-item" href="#">ENERGI PANAS BUMI</a>
-                                    <a className="dropdown-item" href="#">ENERGI NUKLIR</a>
+                                    <a className="dropdown-item" href="/standard/energi-angin">ENERGI ANGIN</a>
+                                    <a className="dropdown-item" href="/standard/energi-air">ENERGI AIR</a>
+                                    <a className="dropdown-item" href="/standard/energi-surya">ENERGI SURYA</a>
+                                    <a className="dropdown-item" href="/standard/energi-biomassa">ENERGI BIOMASSA</a>
+                                    <a className="dropdown-item" href="/standard/energi-nuklir">ENERGI NUKLIR</a>
+                                    <a className="dropdown-item" href="/standard/energi-panas-bumi">ENERGI PANAS BUMI</a>
                                 </div>
                             </li>
                             <li className="nav-item dropdown">
@@ -45,11 +45,11 @@ function Layout({ children }) {
                                     RISET
                                 </a>
                                 <div className="dropdown-menu" aria-labelledby="navbarDropdownStandard">
-                                    <a className="dropdown-item" href="#">ENERGI ANGIN</a>
-                                    <a className="dropdown-item" href="#">ENERGI SURYA</a>
-                                    <a className="dropdown-item" href="#">ENERGI AIR</a>
-                                    <a className="dropdown-item" href="#">ENERGI BIOMASSA</a>
-                                    <a className="dropdown-item" href="#">ENERGI PANAS BUMI</a>
+                                    <a className="dropdown-item" href="/riset/energi-angin">ENERGI ANGIN</a>
+                                    <a className="dropdown-item" href="/riset/energi-surya">ENERGI SURYA</a>
+                                    <a className="dropdown-item" href="/riset/energi-air">ENERGI AIR</a>
+                                    <a className="dropdown-item" href="/riset/energi-biomassa">ENERGI BIOMASSA</a>
+                                    <a className="dropdown-item" href="/riset/energi-panas-bumi">ENERGI PANAS BUMI</a>
                                 </div>
                             </li>
                             <li className="nav-item dropdown">
@@ -58,11 +58,11 @@ function Layout({ children }) {
                                     REGULASI
                                 </a>
                                 <div className="dropdown-menu" aria-labelledby="navbarDropdownStandard">
-                                    <a className="dropdown-item" href="#">UMUM</a>
-                                    <a className="dropdown-item" href="#">BIOENERGI</a>
-                                    <a className="dropdown-item" href="#">ANEKA EBT</a>
-                                    <a className="dropdown-item" href="#">PANAS BUMI</a>
-                                    <a className="dropdown-item" href="#">TENAGA NUKLIR</a>
+                                    <a className="dropdown-item" href="/regulasi/umum">UMUM</a>
+                                    <a className="dropdown-item" href="/regulasi/bioenergi">BIOENERGI</a>
+                                    <a className="dropdown-item" href="/regulasi/aneka-ebt">ANEKA EBT</a>
+                                    <a className="dropdown-item" href="/regulasi/panas-bumi">PANAS BUMI</a>
+                                    <a className="dropdown-item" href="/regulasi/tenaga-nuklir">TENAGA NUKLIR</a>
                                 </div>
                             </li>
                         </ul>
@@ -95,3 +95,4 @@ function Layout({ children }) {
 }
 
 export default Layout;
+
