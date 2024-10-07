@@ -13,6 +13,7 @@ import EnergiSuryaStandard from './pages/standard/energi-surya';
 import EnergiBiomassaStandard from './pages/standard/energi-biomassa';
 import EnergiNuklirStandard from './pages/standard/energi-nuklir';
 import EnergiPanasBumiStandard from './pages/standard/energi-panas-bumi';
+import NotFound from './pages/error/404';
 
 function App() {
   return (
@@ -31,6 +32,8 @@ function App() {
           <Route path="/standard/energi-biomassa" element={<EnergiBiomassaStandard />} />
           <Route path="/standard/energi-nuklir" element={<EnergiNuklirStandard />} />
           <Route path="/standard/energi-panas-bumi" element={<EnergiPanasBumiStandard />} />
+          <Route path="*" element={<NotFound />} />
+
         </Routes>
       </Layout>
     </Router>
@@ -38,3 +41,4 @@ function App() {
 }
 
 export default App;
+
