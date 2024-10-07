@@ -8,9 +8,9 @@ function NotFound() {
                 <div className="fs-3 fw-medium">Page Not Found</div>
                 <div className="fs-5 fw-light">Sorry, the page you are looking for does not exist.</div>
                 <div className="mt-5">
-                    <button href="/" className="btn btn-success rounded-pill">
+                    <a href="/" className="btn btn-success rounded-pill">
                         Back to Home
-                    </button>
+                    </a>
                 </div>
             </div>
         </div>
