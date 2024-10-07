@@ -1,68 +1,69 @@
 import React from 'react';
+import { NavLink, Link } from "react-router-dom";
 
 function Layout({ children }) {
     return (
         <>
             <nav className="navbar navbar-expand-lg navbar-dark bg-success sticky-top" id="navbar">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="/">
+                    <Link className="navbar-brand" to="/">
                         <img src="logo.png" alt="Logo" width="30" height="30" />
-                    </a>
+                    </Link>
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li className="nav-item">
-                                <a className="nav-link" href="/">HOME</a>
+                                <NavLink className="nav-link" to="/">HOME</NavLink>
                             </li>
                             <li className="nav-item dropdown">
-                                <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownTesting" role="button"
+                                <NavLink className="nav-link dropdown-toggle" to="#" id="navbarDropdownTesting" role="button"
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     TESTING
-                                </a>
+                                </NavLink>
                                 <div className="dropdown-menu" aria-labelledby="navbarDropdownTesting">
-                                    <a className="dropdown-item" href="/testing/energi-angin">ENERGI ANGIN</a>
-                                    <a className="dropdown-item" href="/testing/energi-air">ENERGI AIR</a>
-                                    <a className="dropdown-item" href="/testing/energi-surya">ENERGI SURYA</a>
-                                    <a className="dropdown-item" href="/testing/energi-biomassa">ENERGI BIOMASSA</a>
+                                    <NavLink className="dropdown-item" to="/testing/energi-angin">ENERGI ANGIN</NavLink>
+                                    <NavLink className="dropdown-item" to="/testing/energi-air">ENERGI AIR</NavLink>
+                                    <NavLink className="dropdown-item" to="/testing/energi-surya">ENERGI SURYA</NavLink>
+                                    <NavLink className="dropdown-item" to="/testing/energi-biomassa">ENERGI BIOMASSA</NavLink>
                                 </div>
                             </li>
                             <li className="nav-item dropdown">
-                                <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownStandard" role="button"
+                                <NavLink className="nav-link dropdown-toggle" to="#" id="navbarDropdownStandard" role="button"
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     STANDARD
-                                </a>
+                                </NavLink>
                                 <div className="dropdown-menu" aria-labelledby="navbarDropdownStandard">
-                                    <a className="dropdown-item" href="/standard/energi-angin">ENERGI ANGIN</a>
-                                    <a className="dropdown-item" href="/standard/energi-air">ENERGI AIR</a>
-                                    <a className="dropdown-item" href="/standard/energi-surya">ENERGI SURYA</a>
-                                    <a className="dropdown-item" href="/standard/energi-biomassa">ENERGI BIOMASSA</a>
-                                    <a className="dropdown-item" href="/standard/energi-nuklir">ENERGI NUKLIR</a>
-                                    <a className="dropdown-item" href="/standard/energi-panas-bumi">ENERGI PANAS BUMI</a>
+                                    <NavLink className="dropdown-item" to="/standard/energi-angin">ENERGI ANGIN</NavLink>
+                                    <NavLink className="dropdown-item" to="/standard/energi-air">ENERGI AIR</NavLink>
+                                    <NavLink className="dropdown-item" to="/standard/energi-surya">ENERGI SURYA</NavLink>
+                                    <NavLink className="dropdown-item" to="/standard/energi-biomassa">ENERGI BIOMASSA</NavLink>
+                                    <NavLink className="dropdown-item" to="/standard/energi-nuklir">ENERGI NUKLIR</NavLink>
+                                    <NavLink className="dropdown-item" to="/standard/energi-panas-bumi">ENERGI PANAS BUMI</NavLink>
                                 </div>
                             </li>
                             <li className="nav-item dropdown">
-                                <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownStandard" role="button"
+                                <NavLink className="nav-link dropdown-toggle" to="#" id="navbarDropdownStandard" role="button"
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     RISET
-                                </a>
+                                </NavLink>
                                 <div className="dropdown-menu" aria-labelledby="navbarDropdownStandard">
-                                    <a className="dropdown-item" href="/riset/energi-angin">ENERGI ANGIN</a>
-                                    <a className="dropdown-item" href="/riset/energi-surya">ENERGI SURYA</a>
-                                    <a className="dropdown-item" href="/riset/energi-air">ENERGI AIR</a>
-                                    <a className="dropdown-item" href="/riset/energi-biomassa">ENERGI BIOMASSA</a>
-                                    <a className="dropdown-item" href="/riset/energi-panas-bumi">ENERGI PANAS BUMI</a>
+                                    <NavLink className="dropdown-item" to="/riset/energi-angin">ENERGI ANGIN</NavLink>
+                                    <NavLink className="dropdown-item" to="/riset/energi-surya">ENERGI SURYA</NavLink>
+                                    <NavLink className="dropdown-item" to="/riset/energi-air">ENERGI AIR</NavLink>
+                                    <NavLink className="dropdown-item" to="/riset/energi-biomassa">ENERGI BIOMASSA</NavLink>
+                                    <NavLink className="dropdown-item" to="/riset/energi-panas-bumi">ENERGI PANAS BUMI</NavLink>
                                 </div>
                             </li>
                             <li className="nav-item dropdown">
-                                <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownStandard" role="button"
+                                <NavLink className="nav-link dropdown-toggle" to="#" id="navbarDropdownStandard" role="button"
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     REGULASI
-                                </a>
+                                </NavLink>
                                 <div className="dropdown-menu" aria-labelledby="navbarDropdownStandard">
-                                    <a className="dropdown-item" href="/regulasi/umum">UMUM</a>
-                                    <a className="dropdown-item" href="/regulasi/bioenergi">BIOENERGI</a>
-                                    <a className="dropdown-item" href="/regulasi/aneka-ebt">ANEKA EBT</a>
-                                    <a className="dropdown-item" href="/regulasi/panas-bumi">PANAS BUMI</a>
-                                    <a className="dropdown-item" href="/regulasi/tenaga-nuklir">TENAGA NUKLIR</a>
+                                    <NavLink className="dropdown-item" to="/regulasi/umum">UMUM</NavLink>
+                                    <NavLink className="dropdown-item" to="/regulasi/bioenergi">BIOENERGI</NavLink>
+                                    <NavLink className="dropdown-item" to="/regulasi/aneka-ebt">ANEKA EBT</NavLink>
+                                    <NavLink className="dropdown-item" to="/regulasi/panas-bumi">PANAS BUMI</NavLink>
+                                    <NavLink className="dropdown-item" to="/regulasi/tenaga-nuklir">TENAGA NUKLIR</NavLink>
                                 </div>
                             </li>
                         </ul>
