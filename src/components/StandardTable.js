@@ -1,8 +1,7 @@
 import React from 'react';
-import MapWithProvider from './MapWithProvider';
 
 // Table Component to display energy services
-function TestingTable({ data }) {
+function StandardTable({ data }) {
     return (
         <div className="table-responsive">
             <table className="table table-bordered table-striped table-hover">
@@ -63,5 +62,5 @@ function TestingTable({ data }) {
     );
 }
 
-export default TestingTable;
+export default StandardTable;
 

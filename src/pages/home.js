@@ -43,10 +43,10 @@ const Home = () => {
             </section>
             <section className="container-fluid">
                 <div className="row my-4 rounded-4 p-3">
-                    <div className="col-md-6">
+                    <div className="col-lg-6">
                         <img src="https://via.placeholder.com/800x500" alt="Lorem Ipsum" className="img-fluid rounded-4 mb-3" />
                     </div>
-                    <div className="col-md-6">
+                    <div className="col-lg-6">
                         <div className="d-flex align-items-center justify-content-center h-100">
                             <div>
                                 <h3>Lorem Ipsum</h3>
@@ -59,7 +59,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="row my-4 rounded-4 p-3">
-                    <div className="d-md-block d-none col-md-6">
+                    <div className="d-lg-block d-none col-lg-6">
                         <div className="d-flex align-items-center justify-content-center h-100">
                             <div>
                                 <h3>Lorem Ipsum</h3>
@@ -70,10 +70,10 @@ const Home = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-6">
-                        <img src="https://via.placeholder.com/800x500" alt="Lorem Ipsum" className="img-fluid rounded-4 mb-3" />
+                    <div className="col-lg-6">
+                        <img src="https://via.placeholder.com/800x500" alt="Lorem Ipsum" className="img-fluid rounded-4 mb-3 " />
                     </div>
-                    <div className="d-md-none d-block col-md-6">
+                    <div className="d-lg-none d-block col-lg-6">
                         <div className="d-flex align-items-center justify-content-center h-100">
                             <div>
                                 <h3>Lorem Ipsum</h3>
