@@ -84,11 +84,11 @@ function Layout({ children }) {
             </section>
 
             {/* Main Content */}
-            <main>
+            <main className="py-2">
                 {children}
             </main>
 
-            <footer className="bg-success text-white text-center py-4">
+            <footer className="bg-success text-white text-center py-4 mt-4">
                 <p>&copy; 2024 Database Testing and Standard for Energy. All rights reserved.</p>
             </footer>
         </>
