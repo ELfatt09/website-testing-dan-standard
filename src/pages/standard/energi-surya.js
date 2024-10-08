@@ -28,7 +28,7 @@ const EnergiSuryaStandard = () => {
             no: 4,
             item: 'SNI 0225-7-712:2021',
             nama: 'Persyaratan Umum Instalasi Listrik (PUIL) 2020 - Bagian 7-712: Persyaratan untuk instalasi atau lokasi khusus – Sistem suplai daya fotovoltaik surya (PV) (IEC 60364-7-712:2017, MOD)',
-            link: 'https://pesta.bsn.go.id/produk/detail/13884-sni0225-7-7122021',
+            link: '',
             description: []
         },
         {
@@ -77,175 +77,168 @@ const EnergiSuryaStandard = () => {
             no: 11,
             item: 'SNI IEC 62930:2017',
             nama: 'Kabel listrik untuk sistem fotovoltaik dengan peringkat voltase 1,5 kV AS (IEC 62930:2017, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/12395-sniiec629302017',
+            link: 'https://pesta.bsn.go.id/produk/detail/14986-sniiec629302017',
             description: []
         },
         {
             no: 12,
             item: 'SNI IEC TS 62738:2018',
             nama: 'Pembangkit Listrik Tenaga Surya (PLTS) fotovoltaik yang dipasang ditanah – Panduan dan rekomendasi desain (IEC TS 62738:2018, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/11812-sniiects627382018',
+            link: '',
             description: []
         },
         {
             no: 13,
-            item: 'SNI IEC TS 63102:2021',
+            item: 'SNI IEC TS 63102 :2021',
             nama: 'Metode asesmen kepatuhan kode grid (grid code) untuk hubungan grid pembangkit listrik tenaga bayu (PLTB) dan pembangkit listrik tenaga surya (PLTS) (IEC TS 63102:2021, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/13885-sniiects631022021',
+            link: 'https://pesta.bsn.go.id/produk/detail/14265-iects631022021',
             description: []
         },
         {
             no: 14,
             item: 'SNI ISO 50045:2019',
             nama: 'Pedoman teknis evaluasi penghematan energi pada pembangkit listrik tenaga termal (ISO 50045:2019, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/13615-sniiso500452019',
+            link: 'https://pesta.bsn.go.id/produk/detail/12657-sniiso500452019',
             description: []
         },
         {
             no: 15,
             item: 'SNI 04-3020-1992',
             nama: 'Pemanas air tenaga surya, Definisi, satuan dan lambang, dan klasifikasi. Bagian 1',
-            link: 'https://pesta.bsn.go.id/produk/detail/5957-sni04-3020-1992',
+            link: 'https://pesta.bsn.go.id/produk/detail/3379-sni04-3020-1992',
             description: []
         },
         {
             no: 16,
             item: 'SNI 04-6205.9-2000',
             nama: 'Gawai fotovoltaik - Bagian 9: Persyaratan unjuk kerja simulator surya',
-            link: 'https://pesta.bsn.go.id/produk/detail/5960-sni04-6205.9-2000',
+            link: 'https://pesta.bsn.go.id/produk/detail/5712-sni04-62059-2000',
             description: []
         },
         {
             no: 17,
             item: 'SNI 04-6289.3-2000',
             nama: 'Arester surya. Bagian 3: Uji tiruan arester surya',
-            link: 'https://pesta.bsn.go.id/produk/detail/5962-sni04-6289.3-2000',
+            link: 'https://pesta.bsn.go.id/produk/detail/5834-sni04-62893-2000',
             description: []
         },
         {
             no: 18,
             item: 'SNI 8602:2018',
             nama: 'Kinerja termal dinding dan pintu - penentuan koefisien perolehan radiasi surya (JIS A 1493:2014, MOD)',
-            link: 'https://pesta.bsn.go.id/produk/detail/11813-sni86022018',
+            link: 'https://pesta.bsn.go.id/produk/detail/13908-86022018',
             description: []
         },
         {
             no: 19,
             item: 'SNI 9196:2023',
             nama: 'Alat pengering tenaga surya aktif tipe langsung – Syarat mutu dan metode uji',
-            link: 'https://pesta.bsn.go.id/produk/detail/14239-sni91962023',
+            link: 'https://pesta.bsn.go.id/produk/detail/14778-sni91962023',
             description: []
         },
         {
             no: 20,
             item: 'SNI IEC 60364-7-712:2012',
             nama: 'Instalasi listrik gedung - Bagian 7-712: Persyaratan untuk instalasi atau lokasi khusus - Sistem suplai daya fotovoltaik surya (PV)',
-            link: 'https://pesta.bsn.go.id/produk/detail/9313-sniiec60364-7-7122012',
+            link: '',
             description: []
         },
         {
             no: 21,
             item: 'SNI IEC 60904-9:2020',
             nama: 'Perangkat fotovoltaik - Bagian 9: Klasifikasi karakteristik simulator surya (IEC 60904-9:2020, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/13616-sniiec60904-92020',
+            link: 'https://pesta.bsn.go.id/produk/detail/13615-sniiec60904-92020',
             description: []
         },
         {
             no: 22,
             item: 'SNI 04-3850.1-1995',
             nama: 'Modul fotovoltaik. Bagian 1: Umum',
-            link: 'https://pesta.bsn.go.id/produk/detail/5956-sni04-3850.1-1995',
+            link: 'https://pesta.bsn.go.id/produk/detail/4247-sni04-38501-1995',
             description: []
         },
         {
             no: 23,
             item: 'SNI 04-3850.2-1995',
             nama: 'Modul fotovoltaik. Bagian 2 : Pengukuran karakteristik arus tegangan sel/modul fotovoltaik',
-            link: 'https://pesta.bsn.go.id/produk/detail/5955-sni04-3850.2-1995',
+            link: 'https://pesta.bsn.go.id/produk/detail/4248-sni04-38502-1995',
             description: []
         },
         {
             no: 24,
             item: 'SNI 04-6205.7-2000',
             nama: 'Gawai fotovoltaik - Bagian 7: Perhitungan kesalahan yang disebabkan oleh ketidaksesuaian respons spektral pada pengujian suatu gawai fotovoltaik',
-            link: 'https://pesta.bsn.go.id/produk/detail/5963-sni04-6205.7-2000',
+            link: 'https://pesta.bsn.go.id/produk/detail/5710-sni04-62057-2000',
             description: []
         },
         {
             no: 25,
             item: 'SNI 04-6205.8-2000',
             nama: 'Gawai fotovoltaik - Bagian 8: Petunjuk pengukuran respons spektral gawai fotovoltaik',
-            link: 'https://pesta.bsn.go.id/produk/detail/5964-sni04-6205.8-2000',
+            link: 'https://pesta.bsn.go.id/produk/detail/5711-sni04-62058-2000',
             description: []
         },
         {
             no: 26,
             item: 'SNI 04-6206-2000',
             nama: 'Sistem pembangkit daya fotovoltaik terestrial - Umum dan pedoman',
-            link: 'https://pesta.bsn.go.id/produk/detail/5965-sni04-6206-2000',
+            link: 'https://pesta.bsn.go.id/produk/detail/5713-sni04-6206-2000',
             description: []
         },
         {
             no: 27,
             item: 'SNI 04-6298-2000',
             nama: 'Pengujian korosi akibat kabut garam air laut pada modul fotovoltaik',
-            link: 'https://pesta.bsn.go.id/produk/detail/5966-sni04-6298-2000',
+            link: 'https://pesta.bsn.go.id/produk/detail/5849-sni04-6298-2000',
             description: []
         },
         {
             no: 28,
             item: 'SNI 04-6300-2000',
             nama: 'Modul fotovoltaik terestrial film-lapisan tipis',
-            link: 'https://pesta.bsn.go.id/produk/detail/5967-sni04-6300-2000',
+            link: '',
             description: []
         },
         {
             no: 29,
             item: 'SNI 04-6302-2000',
             nama: 'Pengenalan fotovoltaik yang dikopel langsung dengan sistem pompa',
-            link: 'https://pesta.bsn.go.id/produk/detail/5968-sni04-6302-2000',
+            link: 'https://pesta.bsn.go.id/produk/detail/5853-sni04-6302-2000',
             description: []
         },
         {
             no: 30,
             item: 'SNI 04-6533-2001',
             nama: 'Pengujian ultraviolet modul fotovoltaik',
-            link: 'https://pesta.bsn.go.id/produk/detail/5969-sni04-6533-2001',
+            link: 'https://pesta.bsn.go.id/produk/detail/6126-sni04-6533-2001',
             description: []
         },
         {
             no: 31,
             item: 'SNI IEC 60904-1-1:2017',
             nama: 'Perangkat fotovoltaik – Bagian 1-1: Pengukuran karakteristik arus-tegangan perangkat fotovoltaik (FV) multi-junction (IEC 60904-1-1:2017, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/12396-sniiec60904-1-12017',
+            link: 'https://pesta.bsn.go.id/produk/detail/14236-sniiec60904-1-12017',
             description: []
         },
         {
             no: 32,
             item: 'SNI IEC 60904-1:2011',
             nama: 'Gawai fotovoltaik - Bagian 1: Pengukuran karakteristik arus - tegangan fotovoltaik',
-            link: 'https://pesta.bsn.go.id/produk/detail/9058-sniiec60904-12011',
-            description: []
-        },
-        {
-            no: 33,
-            item: 'SNI IEC 60904-1:2011',
-            nama: 'Gawai fotovoltaik - Bagian 1: Pengukuran karakteristik arus - tegangan fotovoltaik',
-            link: 'https://pesta.bsn.go.id/produk/detail/9058-sniiec60904-12011',
+            link: 'https://pesta.bsn.go.id/produk/detail/9054-sniiec60904-12011',
             description: []
         },
         {
             no: 34,
             item: 'SNI IEC 62759-1:2022',
             nama: 'Modul fotovoltaik (FV) – Pengujian transportasi – Bagian 1: Transportasi dan pengiriman unit kemasan modul (IEC 62759-1:2022, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/14240-sniiec62759-12022',
+            link: 'https://pesta.bsn.go.id/produk/detail/14242-sniiec62759-12022',
             description: []
         },
         {
             no: 35,
             item: 'SNI IEC 62920:2021',
             nama: 'Sistem pembangkit listrik fotovoltaik – Persyaratan dan metode pengujian EMC untuk peralatan konversi daya (IEC 62920:2017+AMD1:2021, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/13886-sniiec629202021',
+            link: 'https://pesta.bsn.go.id/produk/detail/14750-sniiec629202021',
             description: []
         },
         {
@@ -256,55 +249,47 @@ const EnergiSuryaStandard = () => {
             description: []
         },
         {
-            no: 37,
-            item: 'SNI IEC TS 61724-2:2016',
-            nama: 'Kinerja sistem fotovoltaik – Bagian 2: Metode evaluasi kapasitas (IEC TS 61724-2:2016, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/12397-sniiec61724-22016',
-            description: []
-        },
-        {
             no: 38,
             item: 'SNI IEC TS 61724-3:2016',
             nama: 'Kinerja Sistem Fotovoltaik – Bagian 3 : Metode evaluasi energi (IEC TS 61724-3:2016, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/12398-sniiec61724-32016',
+            link: 'https://pesta.bsn.go.id/produk/detail/13589-rsni3iec61724-32016',
             description: []
         },
         {
             no: 39,
             item: 'SNI IEC TS 62804-1:2015',
             nama: 'Modul Fotovoltaik (FV) - Metode uji untuk mendeteksi degradasi terinduksi potensial - Bagian 1: Silikon kristal (IEC TS 62804-1:2015, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/12399-sniiec62804-12015',
+            link: 'https://pesta.bsn.go.id/produk/detail/13122-sniiects62804-12015',
             description: []
         },
         {
             no: 40,
             item: 'SNI IEC TS 62915:2018',
             nama: 'Modul Fotovoltaik (FV) - Pengesahan jenis, kualifikasi desain dan keselamatan - Pengujian ulang (IEC TS 62915-2018, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/12400-sniiec629152018',
+            link: 'https://pesta.bsn.go.id/produk/detail/13161-sniiects629152018',
             description: []
         },
         {
             no: 41,
             item: 'SNI IEC TS 63049:2017',
             nama: 'Sistem Fotovoltaik (FV) terestrial – Panduan jaminan mutu yang efektif dalam instalasi, pengoperasian dan pemeliharaan sistem FV (IEC TS 63049:2017, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/12401-sniiec630492017',
+            link: 'https://pesta.bsn.go.id/produk/detail/13162-sniiects630492017',
             description: []
         },
         {
             no: 42,
             item: 'SNI IEC 62116:2014',
             nama: 'Inverter fotovoltaik terhubung ke jaringan listrik – Prosedur uji tindakan pencegahan islanding (IEC 62116:2014, IDT)',
-            link: 'https://pesta.bsn.go.id/produk/detail/12402-sniiec621162014',
+            link: 'https://pesta.bsn.go.id/produk/detail/12404-sniiec621162014',
             description: []
         },
         {
             no: 43,
             item: 'SNI 04-3021-1992',
             nama: 'Pemanas air tenaga surya tipe domestik sistem termosifon langsung dengan pemanas tambahan',
-            link: 'https://pesta.bsn.go.id/produk/detail/5958-sni04-3021-1992',
-            description: []
-        },
-        {
+            link: 'https://pesta.bsn.go.id/produk/detail/3380-sni04-3021-1992',
+            description: []        },
+/******  f2ebbfaf-267e-44ec-a61d-cd0ee2d766e8  *******/        {
             no: 44,
             item: 'SNI 04-6391-2000',
             nama: 'Battery charge regulator (BCR) - Prosedur uji dan persyaratan elektris',
