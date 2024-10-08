@@ -84,7 +84,7 @@ function Layout({ children }) {
             </section>
 
             {/* Main Content */}
-            <main className="py-2">
+            <main className="py-2 overflow-x-hidden">
                 {children}
             </main>
 
