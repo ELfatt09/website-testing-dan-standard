@@ -7,7 +7,7 @@ function Layout({ children }) {
             <nav className="navbar navbar-expand-lg navbar-dark bg-success sticky-top" id="navbar">
                 <div className="container-fluid">
                     <Link className="navbar-brand" to="/">
-                        <img src="logo.png" alt="Logo" width="30" height="30" />
+                        <img src={process.env.PUBLIC_URL + "/File/image/logo.png"} alt="Logo" width="auto" height="50px" />
                     </Link>
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">

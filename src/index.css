@@ -62,7 +62,7 @@
 }
 
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://via.placeholder.com/1920x600') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/public/File/image/main page.jpg') no-repeat center center/cover;
     padding: 6rem 1rem;
     text-align: center;
     color: white;
