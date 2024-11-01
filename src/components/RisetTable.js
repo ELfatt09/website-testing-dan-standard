@@ -5,7 +5,7 @@ function StandardTable({ data }) {
     return (
         <div className="table-responsive">
             <table className="table table-bordered table-striped table-hover">
-                <thead className="bg-success text-white">
+                <thead className="bg-info text-white">
                     <tr>
                         <th>Tahun</th>
                         <th>Judul</th>

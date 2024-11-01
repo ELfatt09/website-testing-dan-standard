@@ -48,11 +48,11 @@ const Home = () => {
                 </div>
             </section>
             <section className="container-fluid">
-                <div className="row my-4 rounded-4 p-3" data-aos="slide-right" data-aos-duration="1000" data-aos-delay="200">
-                    <div className="col-lg-6">
+                <div className="row my-4 rounded-4 p-3">
+                    <div data-aos="slide-right" data-aos-duration="1000" data-aos-delay="200" className="col-lg-6">
                         <img src={process.env.PUBLIC_URL + "/File/image/panel.jpg"} alt="Lorem Ipsum" className="img-fluid rounded-4 mb-3" />
                     </div>
-                    <div className="col-lg-6">
+                    <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" className="col-lg-6">
                         <div className="d-flex align-items-center justify-content-center h-100">
                             <div>
                                 <h3>Standard and Testing</h3>
@@ -60,13 +60,13 @@ const Home = () => {
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta mi erat, non tristique quam ornare at. Etiam tempus, felis et elementum finibus, enim sapien commodo mauris, id elementum metus odio vitae ipsum. Morbi porttitor mi sit amet ante consequat efficitur. Nulla facilisi. Donec a erat pretium, volutpat felis id, varius mauris. Mauris quis luctus sem. Quisque ultrices risus id risus volutpat, ut tempus est ornare. Morbi eu diam congue, semper libero ac, sollicitudin nulla. Fusce laoreet consectetur quam, et condimentum mauris efficitur sit amet. Curabitur sed lorem nisl. Aliquam vel dui ornare, aliquam quam a, lobortis sapien. Morbi convallis quis velit sed dictum. Ut ex risus, dictum et mi nec, egestas pharetra nibh. Morbi volutpat arcu vel gravida aliquam. Nulla eget purus massa.
                                 </p>
-                                <Link className="btn btn-outline-success px-4 py-2 rounded-pill" to="/">Lorem</Link>
+                                <Link className="btn btn-outline-info px-4 py-2 rounded-pill" to="/">Lorem</Link>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div className="row my-4 rounded-4 p-3" data-aos="slide-left" data-aos-duration="1000" data-aos-delay="200">
-                    <div className="d-lg-block d-none col-lg-6">
+                <div className="row my-4 rounded-4 p-3">
+                    <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" className="d-lg-block d-none col-lg-6">
                         <div className="d-flex align-items-center justify-content-center h-100">
                             <div>
                                 <h3>Research and Regulation</h3>
@@ -74,14 +74,14 @@ const Home = () => {
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta mi erat, non tristique quam ornare at. Etiam tempus, felis et elementum finibus, enim sapien commodo mauris, id elementum metus odio vitae ipsum. Morbi porttitor mi sit amet ante consequat efficitur. Nulla facilisi. Donec a erat pretium, volutpat felis id, varius mauris. Mauris quis luctus sem. Quisque ultrices risus id risus volutpat, ut tempus est ornare. Morbi eu diam congue, semper libero ac, sollicitudin nulla. Fusce laoreet consectetur quam, et condimentum mauris efficitur sit amet. Curabitur sed lorem nisl. Aliquam vel dui ornare, aliquam quam a, lobortis sapien. Morbi convallis quis velit sed dictum. Ut ex risus, dictum et mi nec, egestas pharetra nibh. Morbi volutpat arcu vel gravida aliquam. Nulla eget purus massa.
                                 </p>
-                                <Link className="btn btn-outline-success px-4 py-2 rounded-pill" to="/">Lorem</Link>
+                                <Link className="btn btn-outline-info px-4 py-2 rounded-pill" to="/">Lorem</Link>
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-6">
+                    <div className="col-lg-6"data-aos="slide-left" data-aos-duration="1000" data-aos-delay="200">
                         <img src={process.env.PUBLIC_URL + "/File/image/hydropower.jpg"} alt="Lorem Ipsum" className="img-fluid rounded-4 mb-3 " />
                     </div>
-                    <div className="d-lg-none d-block col-lg-6">
+                    <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200" className="d-lg-none d-block col-lg-6">
                         <div className="d-flex align-items-center justify-content-center h-100">
                             <div>
                                 <h3>Research and Regulation</h3>
@@ -89,7 +89,7 @@ const Home = () => {
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta mi erat, non tristique quam ornare at. Etiam tempus, felis et elementum finibus, enim sapien commodo mauris, id elementum metus odio vitae ipsum. Morbi porttitor mi sit amet ante consequat efficitur. Nulla facilisi. Donec a erat pretium, volutpat felis id, varius mauris. Mauris quis luctus sem. Quisque ultrices risus id risus volutpat, ut tempus est ornare. Morbi eu diam congue, semper libero ac, sollicitudin nulla. Fusce laoreet consectetur quam, et condimentum mauris efficitur sit amet. Curabitur sed lorem nisl. Aliquam vel dui ornare, aliquam quam a, lobortis sapien. Morbi convallis quis velit sed dictum. Ut ex risus, dictum et mi nec, egestas pharetra nibh. Morbi volutpat arcu vel gravida aliquam. Nulla eget purus massa.
                                 </p>
-                                <Link className="btn btn-outline-success px-4 py-2 rounded-pill" to="/">Lorem</Link>
+                                <Link className="btn btn-outline-info px-4 py-2 rounded-pill" to="/">Lorem</Link>
                             </div>
                         </div>
                     </div>

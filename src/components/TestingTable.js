@@ -6,7 +6,7 @@ function TestingTable({ data }) {
     return (
         <div className="table-responsive">
             <table className="table table-bordered table-striped table-hover">
-                <thead className="bg-success text-white">
+                <thead className="bg-info text-white">
                     <tr>
                         <th>No</th>
                         <th>Testing/Jasa Layanan</th>
@@ -48,7 +48,7 @@ function TestingTable({ data }) {
                                     <a
                                         href={item.link}
                                         target="_blank"
-                                        className="btn btn-outline-success w-100 px-3 py-2 rounded-pill"
+                                        className="btn btn-outline-info w-100 px-3 py-2 rounded-pill"
                                         rel="noopener noreferrer"
                                     >
                                         Link

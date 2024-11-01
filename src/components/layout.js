@@ -4,10 +4,10 @@ import { NavLink, Link } from "react-router-dom";
 function Layout({ children }) {
     return (
         <>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-success sticky-top" id="navbar">
+            <nav className="navbar navbar-expand-lg navbar-dark bg-info text-white sticky-top" id="navbar" style={{padding: '0px'}}>
                 <div className="container-fluid">
                     <Link className="navbar-brand" to="/">
-                        <img src={process.env.PUBLIC_URL + "/File/image/logo.png"} alt="Logo" width="auto" height="40px" />
+                        <img src={process.env.PUBLIC_URL + "/File/image/logo.png"} alt="Logo" width="auto" height="60px" />
                     </Link>
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -68,7 +68,13 @@ function Layout({ children }) {
                             </li>
                         </ul>
                     </div>
-                    <button className="navbar-toggler text-white" type="button" data-bs-toggle="collapse"
+                    <Link className="navbar-brand" to="/">
+                        <img src={process.env.PUBLIC_URL + "/File/image/brin.png"} alt="Logo" width="auto" height="60px" />
+                    </Link>
+                    <Link className="navbar-brand" to="/">
+                        <img src={process.env.PUBLIC_URL + "/File/image/prtps.png"} alt="Logo" width="auto" height="60px" />
+                    </Link>
+                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                         aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
@@ -79,16 +85,16 @@ function Layout({ children }) {
             {/* Hero Section */}
             <section className="hero">
                 <div className="container">
-                    <h1 className="display-2">Database Testing and Standard for Energy</h1>
+                    <h1 className="display-2">Renewable Energy</h1>
                 </div>
             </section>
 
             {/* Main Content */}
-            <main className="py-2 overflow-x-hidden">
+            <main className="py-2 overflow-hidden">
                 {children}
             </main>
 
-            <footer className="bg-success text-white text-center py-4 mt-4">
+            <footer className="bg-info text-white text-center py-4 mt-4">
                 <p>&copy; 2024 Database Testing and Standard for Energy. All rights reserved.</p>
             </footer>
         </>
@@ -96,4 +102,5 @@ function Layout({ children }) {
 }
 
 export default Layout;
+
 
