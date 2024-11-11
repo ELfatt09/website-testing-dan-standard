@@ -12,7 +12,7 @@ const Home = () => {
         <>
             <section className="my-5">
                 <div className="container-fluid" data-aos="slide-up" data-aos-duration="1000">
-                    <h2 align="center" className="display-5 my-4">Database Testing and Standard for Energy</h2>
+                    <h2 align="center" className="display-5 my-4">Database Testing and Standar for Renewable Enrgy</h2>
                     <div className="row">
                         <div className="col-md-4 px-2" data-aos="slide-up" data-aos-duration="1000" data-aos-delay="100">
                             <div className="container-fluid rounded-4 p-3 shadow-sm" align="center" style={{height: '100vh'}}>

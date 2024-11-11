@@ -85,8 +85,7 @@ function Layout({ children }) {
             {/* Hero Section */}
             <section className="hero">
                 <div className="container">
-                    <h1 className="display-2">Database Testing and
-                    Standard for Renewable Energy</h1>
+                    <h1 className="display-2">Database Testing and Standar for Renewable Enrgyy</h1>
                 </div>
             </section>
 
