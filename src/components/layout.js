@@ -4,9 +4,9 @@ import { NavLink, Link } from "react-router-dom";
 function Layout({ children }) {
     return (
         <>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-info text-white sticky-top" id="navbar" style={{padding: '0px'}}>
+            <nav className="navbar navbar-expand-lg navbar-light bg-white text-info sticky-top" id="navbar" style={{ padding: "0.2rem" }}>
                 <div className="container-fluid">
-                    <Link className="navbar-brand" to="/">
+                    <Link className="navbar-brand bg-info rounded-circle" to="/">
                         <img src={process.env.PUBLIC_URL + "/File/image/logo.png"} alt="Logo" width="auto" height="60px" />
                     </Link>
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
