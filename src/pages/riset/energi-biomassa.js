@@ -213,6 +213,221 @@ const EnergiBiomassaRiset = () => {
             judul: 'Valorization of Banana Bunch Waste as a Feedstock via Hydrothermal Carbonization for Energy Purposes',
             link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160317222&doi=10.12911%2f22998993%2f163350&partnerID=40&md5=487f2b5121c8bc339183e7d3b955b2d1',
         },
+        {
+            tahun: 2022,
+            judul: 'Allometric Equations for the Biomass Estimation of Calophyllum inophyllum L. in Java, Indonesia',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133973565&doi=10.3390%2ff13071057&partnerID=40&md5=3ccadf584a4d6be8c2c717f83f7e1ab6',
+        },
+        {
+            tahun: 2022,
+            judul: 'Analysis of methyl compounds variation in the crude Pongamia pinnata oil from Banten, West Java and North Java populations',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85145600439&doi=10.1088%2f1755-1315%2f1115%2f1%2f012050&partnerID=40&md5=b349d5e511980a9bdd204a78d0fc1b4c',
+        },
+        {
+            tahun: 2022,
+            judul: 'Caffeic Acid Phenethyl Ester as a DHODH Inhibitor and Its Synergistic Anticancer Properties in Combination with 5-Fluorouracil in a Breast Cancer Cell Line',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134628901&doi=10.2147%2fJEP.S365159&partnerID=40&md5=4ed7a547e5387c2e6b83326f0dc8b93a',
+        },
+        {
+            tahun: 2022,
+            judul: 'Enabling Factors of NTFP Business Development for Ecosystem Restoration: The Case of Tamanu Oil in Indonesian Degraded Peatland',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85137909413&doi=10.3390%2fsu141710681&partnerID=40&md5=a2426b4d429a7cc0172cc90204b8f767',
+        },
+        {
+            tahun: 2022,
+            judul: 'Finding the context indigenous innovation in village enterprise knowledge structure: a topic modeling',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85125352367&doi=10.1186%2fs13731-022-00220-9&partnerID=40&md5=573b290b107b240463772256a6e24d4a',
+        },
+        {
+            tahun: 2022,
+            judul: 'Indonesian urban forest policies, practice and bioenergy potential of urban forest tree species',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123499575&doi=10.1080%2f03071375.2021.2014706&partnerID=40&md5=67c2ebeaeb397ea5fa12062596d0aba1',
+        },
+        {
+            tahun: 2022,
+            judul: 'Limiting silicon supply alters lignin content and structures of sorghum seedling cell walls',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130775530&doi=10.1016%2fj.plantsci.2022.111325&partnerID=40&md5=cebea127bea84a088716928b5b720d3c',
+        },
+        {
+            tahun: 2022,
+            judul: 'Mainstreaming Smart Agroforestry for Social Forestry Implementation to Support Sustainable Development Goals in Indonesia: A Review',
+            link: 'http://dx.doi.org/10.3390/su14159313',
+        },
+        {
+            tahun: 2022,
+            judul: 'Palm oil-based bioenergy sustainability and policy in Indonesia and Malaysia: A systematic review and future agendas',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139316327&doi=10.1016%2fj.heliyon.2022.e10919&partnerID=40&md5=8fb9216140b514cef07ae1045596b27a',
+        },
+        {
+            tahun : 2022,
+            judul: 'Slow Pyrolysis of Ulva lactuca (Chlorophyta) for Sustainable Production of Bio-Oil and Biochar',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85126302663&doi=10.3390%2fsu14063233&partnerID=40&md5=712c34e7f854bb78d823372a2475e94a',
+        },
+        {
+            tahun: 2022,
+            judul: 'The Scientometric Evaluation of The Research on Yeast Microbial Fuel Cells as A Promising Sustainable Energy Source',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85137562053&partnerID=40&md5=e27cbc34a250513de975b93f72f23c67',
+        },
+        {
+            tahun: 2022,
+            judul: 'Utilization of anaerobically digested dairy manure wastewater for Spirulina maxima cultivation',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134227852&doi=10.1088%2f1755-1315%2f1038%2f1%2f012022&partnerID=40&md5=0c98884e09e53e5f30f9f81d84acfaf7',
+        },
+        {
+            tahun: 2021,
+            judul: 'A novel application of simple submersible yeast-based microbial fuel cells as dissolved oxygen sensors in environmental waters',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107277373&doi=10.1016%2fj.enzmictec.2021.109831&partnerID=40&md5=e5979a5e2aaae203b375e4c02f13e233',
+        },
+        {
+            tahun: 2021,
+            judul: 'Design of rotary dryer for sand drying using biomass energy sources',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099300607&doi=10.1051%2fe3sconf%2f202122600024&partnerID=40&md5=a21c95b39b3084c1e61dc3bf1648a8dd',
+        },
+        {
+            tahun: 2021,
+            judul: 'Enhancement of bioethanol production from palm sap (Arenga pinnata (Wurmb) Merr) through optimization of Saccharomyces cerevisiae as an inoculum',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85109480446&doi=10.1016%2fj.jmrt.2021.06.085&partnerID=40&md5=2f3738edc11879536c87203a726a36b9',
+        },
+        {
+            tahun: 2021,
+            judul: 'Nitrogen deficiency results in changes to cell wall composition of sorghum seedlings',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85120879236&doi=10.1038%2fs41598-021-02570-y&partnerID=40&md5=29d3e22f2793bbab3afc5ebbd7c27263',
+        },
+        {
+            tahun: 2021,
+            judul: 'Sustainable electricity generation from photo-bioelectrochemical cell based on carbon nanotubes and chlorophyll anode',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098887836&doi=10.1016%2fj.egyr.2019.11.030&partnerID=40&md5=8035523ddc7ef675016a27935adcf0d8',
+        },
+        {
+            tahun: 2020,
+            judul: 'A review of technology assessment of green gasoline processing',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092041204&doi=10.1063%2f5.0014567&partnerID=40&md5=f6c5abb08ae0e414ceaf2410e572d5be',
+        },
+        {
+            tahun: 2020,
+            judul: 'Analysis of utilization of low grade bioethanol and oxygenated additives to COV and heat release rate on SI engine',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85080863908&doi=10.1088%2f1755-1315%2f439%2f1%2f012004&partnerID=40&md5=8b5e91078b20b8825de469b82ca69230',
+        },
+        {
+            tahun: 2020,
+            judul: 'Dark fermentative hydrogen production from cheese whey using hydrogen-producing bacteria isolated from Mount Pancar hot spring, West Java',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091899520&doi=10.1051%2fe3sconf%2f202018800018&partnerID=40&md5=295caf27ba990000d6ffeec3fb75e8e0',
+        },
+        {
+            tahun: 2020,
+            judul: 'Enhancement the added value of sengon wood waste pulp as bioenergy raw material for bioethanol production',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091838314&doi=10.18331%2fBRJ2020.7.3.2&partnerID=40&md5=8118bc2ae68a48e96711f652f35bcead',
+        },
+        {
+            tahun: 2020,
+            judul: 'Examination of the usability of leaf chlorophyll content and gene expression analyses as nitrogen status biomarkers in Sorghum bicolor',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091784767&doi=10.1016%2fj.biteb.2020.100562&partnerID=40&md5=23e5cc39385c737b1daf21c1c31cc3cf',
+        },
+        {
+            tahun: 2020,
+            judul: 'Life Cycle Impact Assessment on Electricity Production from Biomass Power Plant System through Life Cycle Assessment (LCA) Method using Biomass from Palm Oil Mill in Indonesia',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85080863908&doi=10.1088%2f1755-1315%2f439%2f1%2f012004&partnerID=40&md5=8b5e91078b20b8825de469b82ca69230',
+        },
+        {
+            tahun: 2020,
+            judul: 'Production of sorghum pellets for electricity generation in Indonesia: A life cycle assessment',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092041204&doi=10.1063%2f5.0014567&partnerID=40&md5=f6c5abb08ae0e414ceaf2410e572d5be',
+        },
+        {
+            tahun: 2020,
+            judul: 'Sequential production of ligninolytic, xylanolytic, and cellulolytic enzymes by Trametes hirsuta AA-017 under different biomass of Indonesian sorghum accessions-induced cultures',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85080863908&doi=10.1088%2f1755-1315%2f439%2f1%2f012004&partnerID=40&md5=8b5e91078b20b8825de469b82ca69230',
+        },
+        {
+            tahun: 2019,
+            judul: 'Analysis of the feasibility of small-biomass power generation from the palm oil mill-study case: Palm oil mill in Riau-Indonesia',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074628836&doi=10.1088%2f1755-1315%2f336%2f1%2f012018&partnerID=40&md5=87ec572182654ee7240a69b5bd6d844d',
+        },
+        {
+            tahun: 2019,
+            judul: 'Review on biogas from palm oil mill effluent (POME): Challenges and opportunities in Indonesia',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069050237&doi=10.1088%2f1755-1315%2f293%2f1%2f012004&partnerID=40&md5=7757c765dbae8a954469b88eaeb4e84c',
+        },
+        {
+            tahun: 2018,
+            judul: 'Environmental load assessment for an integrated design of microalgae system of palm oil mill in Indonesia',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049554465&doi=10.1016%2fj.energy.2018.03.144&partnerID=40&md5=f514176df38424c84c8503361c44620a',
+        },
+        {
+            tahun: 2018,
+            judul: 'Estimating the age of oil palm trees using remote sensing technique',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059536552&doi=10.1088%2f1755-1315%2f209%2f1%2f012046&partnerID=40&md5=1eb2cc5df98c9c10ef097d425ef1cab5',
+        },
+        {
+            tahun: 2018,
+            judul: 'High-value chemicals from marine macroalgae: Opportunities and challenges for marine-based bioenergy development',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046091791&doi=10.1088%2f1755-1315%2f141%2f1%2f012039&partnerID=40&md5=9095330b5f6aca2f45d23c1d5ed84e54',
+        },
+        {
+            tahun: 2018,
+            judul: 'Review on Bamboo Utilization as Biocomposites, Pulp and Bioenergy',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059543639&doi=10.1088%2f1755-1315%2f209%2f1%2f012042&partnerID=40&md5=58d8a462322db7edfe8368ef41c1d237',
+        },
+        {
+            tahun: 2018,
+            judul: 'Risk analysis and mitigation strategy for sugar cane production processes (Case Study: X Sugar Cane Factory - West Java)',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85017642360&doi=10.1016%2fj.forpol.2017.03.022&partnerID=40&md5=bd93944b1a259852c049b1fb0f0bfe7a',
+        },
+        {
+            tahun: 2017,
+            judul: 'Potential forest biomass resource as feedstock for bioenergy and its economic value in Indonesia',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-84963576859&doi=10.1016%2fj.jclepro.2016.03.096&partnerID=40&md5=88a090503e11feec00affe1ed6e35e7c',
+        },
+        {
+            tahun: 2016,
+            judul: 'Effect of biogenic carbon inventory on the life cycle assessment of bioenergy: Challenges to the neutrality assumption',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-84969792750&doi=10.18517%2fijaseit.6.2.742&partnerID=40&md5=8ec3a77763066dc5ecbf815dbca7be4b',
+        },
+        {
+            tahun: 2016,
+            judul: 'Farm household preferences and evaluation of land use change policies for agro-forestry plantations in Central Kalimantan, Indonesia: A choice experiment',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-84905574701&doi=10.1016%2fj.jclepro.2014.06.044&partnerID=40&md5=a6ae5659ecd14df1944b97d465bcf6d8',
+        },
+        {
+            tahun: 2014,
+            judul: 'A novel life cycle impact assessment method on biomass residue harvesting reckoning with loss of biomass productivity',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-84888020749&doi=10.1016%2fj.indcrop.2013.10.024&partnerID=40&md5=12150a17ac8ebef6b9dd628f14ce121d',
+        },
+        {
+            tahun: 2014,
+            judul: 'Preparation and properties of binderless boards from Jatropha curcas L. seed cake',
+            link: 'https://www.scopus.com/inward/record .uri?eid=2-s2.0-84900804215&doi=10.1016%2fj.biombioe.2014.04.022&partnerID=40&md5=70a160f81d0de23524d99de48c1233f1',
+        },
+        {
+            tahun: 2014,
+            judul: 'Production of anhydrous ethanol using oil palm empty fruit bunch in a pilot plant',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-84897075862&doi=10.1016%2fj.egypro.2013.05.016&partnerID=40&md5=1fe8c02d179971fed9da56fa09ea670c',
+        },
+        {
+            tahun: 2013,
+            judul: 'Development of small scale concentrated solar power plant using organic Rankine cycle for isolated region in Indonesia',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-84857239423&doi=10.1016%2fj.biortech.2011.12.082&partnerID=40&md5=203c72f284ccbedd13c2876e584f8c47',
+        },
+        {
+            tahun: 2012,
+            judul: 'Oil productivity of the tropical marine diatom Thalassiosira sp.',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-84867916998&doi=10.1252%2fkakoronbunshu.38.299&partnerID=40&md5=9c00955692c87548460865c24783bbf1',
+        },
+        {
+            tahun: 2012,
+            judul: 'Reduction of greenhouse gas emissions by biogas utilization in a tapioca starch factory',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053619715&doi=10.17146%2faij.2010.6&partnerID=40&md5=b0d46b8120b14d1a5a4d671c65f6d8ae',
+        },
+        {
+            tahun: 2010,
+            judul: 'Development of sorghum tolerant to acid soil using induced mutation with gamma irradiation',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-65649152681&doi=10.1016%2fj.enconman.2009.03.001&partnerID=40&md5=9694d202ee3355f5d241447f3f4a33f3',
+        },
+        {
+            tahun: 2009,
+            judul: 'Review on biofuel oil and gas production processes from microalgae',
+            link: 'https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074628836&doi=10.1088%2f1755-1315%2f336%2f1%2f012018&partnerID=40&md5=87ec572182654ee7240a69b5bd6d844d',
+        }
     ];
 
 

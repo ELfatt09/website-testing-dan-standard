@@ -4,10 +4,10 @@ import { NavLink, Link } from "react-router-dom";
 function Layout({ children }) {
     return (
         <>
-            <nav className="navbar navbar-expand-lg navbar-light bg-white text-info sticky-top" id="navbar" style={{ padding: "0.2rem" }}>
+            <nav className="navbar navbar-expand-lg navbar-light bg-white text-info sticky-top" id="navbar" style={{ padding: "none" }}>
                 <div className="container-fluid">
-                    <Link className="navbar-brand bg-info rounded-circle" to="/">
-                        <img src={process.env.PUBLIC_URL + "/File/image/logo.png"} alt="Logo" width="auto" height="60px" />
+                    <Link className="navbar-brand bg-dark rounded-circle" to="/" style={{ margin: "3px" }}>
+                        <img src={process.env.PUBLIC_URL + "/File/image/logo.png"} alt="Logo" width="auto" height="50px" />
                     </Link>
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
