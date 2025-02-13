@@ -1313,6 +1313,730 @@ const EnergiSuryaRiset = () => {
             judul: "Fabrication of Titanium Dioxide-reduced Graphene Oxide (TiO2/rGO) nanocomposites as the Photoanode in Dye Sensitized Solar Cells",
             link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077823290&doi=10.1088%2f1742-6596%2f1402%2f5%2f055101&partnerID=40&md5=650785acc6c5c31a523cbd45c8564249",
         },
+        {
+          tahun: 2019,
+          judul: "Flare Identification by Forecasting Sunspot Numbers Using Fuzzy Time Series Markov Chain Model",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078469251&doi=10.1109%2fISITIA.2019.8937242&partnerID=40&md5=3733533b194b3add9de9de4748cf8828",
+        },
+        {
+          tahun: 2019,
+          judul: "Impurity Gettering by Boron- and Phosphorus-Doped Polysilicon Passivating Contacts for High-Efficiency Multicrystalline Silicon Solar Cells",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069884688&doi=10.1002%2fpssa.201900321&partnerID=40&md5=5635c02f988007b3b6d68e38a8c4dd13",
+        },
+        {
+          tahun: 2019,
+          judul: "Influence of Inorganic Binder Composition on the Structure-Property Relationship of Monolithic Dye-sensitized Solar Cells with Carbon-based Counter Electrode",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076163860&doi=10.1088%2f1757-899X%2f622%2f1%2f012033&partnerID=40&md5=25a4c4330f80c8a9267440853f65b20b",
+        },
+        {
+          tahun: 2019,
+          judul: "Modeling and Performance Analysis of a Parallel Solar Hybrid Micro Gas Turbine",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078269415&doi=10.1109%2fICSEEA47812.2019.8938652&partnerID=40&md5=fe8eccbb9c584db3f6cee87037a24e0f",
+        },
+        {
+          tahun: 2019,
+          judul: "Modelling and simulation of closed loop buck converter to supply constant DC load for single solar PV panel",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062632488&doi=10.1109%2fICSEEA.2018.8627105&partnerID=40&md5=1a1033df18f31e2912acbe05d9fe7150",
+        },
+        {
+          tahun: 2019,
+          judul: "Performance of 10 kWp PV Rooftop System Based on Smart Grid in Energy Building PUSPIPTEK",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078277198&doi=10.1109%2fICSEEA47812.2019.8938615&partnerID=40&md5=6e6e863b6ff13544912310e0cdfaee18",
+        },
+        {
+          tahun: 2019,
+          judul: "Photovoltaic Power Stabilization using Dynamic Power Injection Method",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078297646&doi=10.1109%2fICSEEA47812.2019.8938622&partnerID=40&md5=966074062d95a34ebf080ea222302c65",
+        },
+        {
+          tahun: 2019,
+          judul: "Power produced analysis of solar arrays in nadir pointing mode for low-earth equatorial micro-satellite conceptual design",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067071230&doi=10.1088%2f1755-1315%2f284%2f1%2f012048&partnerID=40&md5=4cd9a9869c7bda36e7bbd2b7d7e9d7b1",
+        },
+        {
+          tahun: 2019,
+          judul: "Prediction of maximum amplitude of solar cycle 25 using machine learning",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068795892&doi=10.1088%2f1742-6596%2f1231%2f1%2f012022&partnerID=40&md5=f68d7104fb94e319efe30ed73dd38f70",
+        },
+        {
+          tahun: 2019,
+          judul: "Simulation of Dye-Sensitized Solar Cells (DSSC) Performance for Various Local Natural Dye Photosensitizers",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065651165&doi=10.1088%2f1757-899X%2f515%2f1%2f012048&partnerID=40&md5=de1c9f7b812d8d55342f93aa1345f220",
+        },
+        {
+          tahun: 2019,
+          judul: "Simulation of Enhancement PV Power Stabilization with Dynamic Power Injection",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078236335&doi=10.1109%2fICSEEA47812.2019.8938649&partnerID=40&md5=d4ece3b8e4dcdea271a129159828aeb6",
+        },
+        {
+          tahun: 2019,
+          judul: "Simulation of PV-biogas integration on hybrid power plant using homer: Study case of superior livestock breeding center and forage of animal feed (BBPTU-HPT) Baturraden",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062641573&doi=10.1109%2fICSEEA.2018.8627132&partnerID=40&md5=e94f8dcdacbe09b592dec7b247172314",
+        },
+        {
+          tahun: 2019,
+          judul: "Simulation-based energy balance analysis of SAR micro-satellite",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85079231304&doi=10.1117%2f12.2541875&partnerID=40&md5=c25fd981686d05627dacf5293fbea7af",
+        },
+        {
+          tahun: 2019,
+          judul: "Solar air heater for preheating the air of broiler house",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062592570&doi=10.1109%2fICSEEA.2018.8627106&partnerID=40&md5=5744fcb07437f242ba4fc6d9782ff321",
+        },
+        {
+          tahun: 2019,
+          judul: "Solar coronal holes and their geo-effectiveness",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062484724&doi=10.1088%2f1742-6596%2f1127%2f1%2f012052&partnerID=40&md5=149f9ddaa5d2e54bdcd618d394c64236",
+        },
+        {
+          tahun: 2019,
+          judul: "Study on the effect of PVDF and TiO2 composition on quasi-solid state DSSC",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074797948&doi=10.1088%2f1742-6596%2f1245%2f1%2f012068&partnerID=40&md5=c12967bf437f4adcb556084883554382",
+        },
+        {
+          tahun: 2019,
+          judul: "Surface modification of poly (ethylene terephthalate) via hydrolysed erosion process",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078021372&doi=10.1063%2f1.5134616&partnerID=40&md5=fb69791384b9351af03c52b1c882b0c3",
+        },
+        {
+          tahun: 2019,
+          judul: "Synthesis and application of TiO2 nanorods as photo-anode in dye-sensitized solar cells",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065563479&doi=10.1088%2f1742-6596%2f1191%2f1%2f012023&partnerID=40&md5=8a04cfcbf1ccfed67fa8b76319288491",
+        },
+        {
+          tahun: 2019,
+          judul: "Synthesis of TiO2 nanoparticles at low hydrothermal temperature and its performance for DSSC sensitized using natural dye extracted from Melastoma malabathricum L. seeds",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068755869&doi=10.1002%2fer.4710&partnerID=40&md5=1a07f8ec7587822894d9ccadcbd4ddd0",
+        },
+        {
+          tahun: 2019,
+          judul: "The Effect of deposition times on preparation of SnO2:F conductive glass by Indonesian local stannic chloride precursors",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068962965&doi=10.1088%2f1757-899X%2f541%2f1%2f012022&partnerID=40&md5=6568cb938caef09b269c1609bd023410",
+        },
+        {
+          tahun: 2019,
+          judul: "The effect of photovoltaic penetration on frequency response of distribution system",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062614133&doi=10.1109%2fICSEEA.2018.8627080&partnerID=40&md5=2792427b6d959e54e4e7c1b9246dfd2e",
+        },
+        {
+          tahun: 2019,
+          judul: "The influence of carbon counter electrode composition on the performance of monolithic dye-sensitized solar cells",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065577913&doi=10.1088%2f1742-6596%2f1191%2f1%2f012021&partnerID=40&md5=eb83ba98e31d5623c439493070c2bcc6",
+        },
+        {
+          tahun: 2019,
+          judul: "The Vulnerability of Climate Change in Indonesia to Renewable Energy",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070575482&doi=10.1088%2f1755-1315%2f303%2f1%2f012029&partnerID=40&md5=2b59495569681c87668c314fd39e629a",
+        },
+        {
+          tahun: 2019,
+          judul: "Thermal behavior and characteristic of Pangandaran natural Zeolite",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073465601&doi=10.5109%2f2349298&partnerID=40&md5=04cf88f61369f8a19dc7c8d5ca1a4efd",
+        },
+        {
+          tahun: 2019,
+          judul: "Visibility study of Optimized Hybrid Energy System Implementation on Indonesia's Telecommunication Base Station",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086308118&doi=10.1109%2fIEEECONF48524.2019.9102483&partnerID=40&md5=2e75ee8bef2a271fd36f71d973352539",
+        },
+        {
+          tahun: 2019,
+          judul: "Wireless telemetry for real-Time monitoring of photovoltaic application system using monopole antenna 3drobotics radio 915 mhz",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85080956452&doi=10.1109%2fTSSA48701.2019.8985518&partnerID=40&md5=a5078883fceac626df54b8e9f7a07a28",
+        },
+        {
+          tahun: 2018,
+          judul: "A comparative study between titania and zirconia as material for scattering layer in dye-sensitized solar cells",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047739173&doi=10.1088%2f1742-6596%2f1011%2f1%2f012003&partnerID=40&md5=8adf1c2d556f53f7c1bb0116247ba2d9",
+        },
+        {
+          tahun: 2018,
+          judul: "A comparative study of the equatorial spread-f occurrence between post-sunset and post-midnight during minimum solar activity",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058275437&doi=10.1117%2f12.2325123&partnerID=40&md5=756af5567fd584a41bf8cfea11e952e5",
+        },
+        {
+          tahun: 2018,
+          judul: "A NEW CASCADE SOLAR DESALINATION SYSTEM WITH INTEGRATED THERMOSYPHONS",
+          link: "http://dx.doi.org/10.14716/ijtech.v9i2.990",
+        },
+        {
+          tahun: 2018,
+          judul: "A technique to track maximum power-point of grid-connected single-stage inverter photovoltaic system",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050011146&doi=10.1109%2fICAMIMIA.2017.8387610&partnerID=40&md5=8adb3634e1bdfc0ebe46c489178d8f0b",
+        },
+        {
+          tahun: 2018,
+          judul: "Correlating the Photoelectrode Thickness with the Performance and Stability of Dye-sensitized Solar Cells",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065055830&doi=10.1109%2fEECCIS.2018.8692868&partnerID=40&md5=ec47c4705f4bcd5ee4598fcfc64cd5e6",
+        },
+        {
+          tahun: 2018,
+          judul: "Design and Implementation of Effective Electrical Power System for Surya Satellite-1",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047730924&doi=10.1088%2f1755-1315%2f149%2f1%2f012059&partnerID=40&md5=0608de658229de7c654bf4c74b8fb2ed",
+        },
+        {
+          tahun: 2018,
+          judul: "Design, development and performance prediction of solar heater for regeneration of adsorbent chamber",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041692699&doi=10.1088%2f1755-1315%2f105%2f1%2f012004&partnerID=40&md5=43178e1f7b3508973b237a486c4bd2f8",
+        },
+        {
+          tahun: 2018,
+          judul: "Development of battery performance data acquisition system for monitoring battery performance inside solar cell system",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057846622&doi=10.1088%2f1757-899X%2f432%2f1%2f012057&partnerID=40&md5=2e3d82eb14063399f21c85a550eb2e7c",
+        },
+        {
+          tahun: 2018,
+          judul: "Digital portable morse code signaling device based on intermittent light",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064763430&doi=10.1109%2fICRAMET.2018.8683937&partnerID=40&md5=4008ad5fc7cfe549bbce52a291507729",
+        },
+        {
+          tahun: 2018,
+          judul: "Efficient and Stable Photovoltaic Characteristics of Quasi-Solid State DSSC using Polymer Gel Electrolyte Based on Ionic Liquid in Organosiloxane Polymer Gels",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047765396&doi=10.1088%2f1742-6596%2f1011%2f1%2f012020&partnerID=40&md5=6d628f3f177950cdc1ce4c2f60e9bd38",
+        },
+        {
+          tahun: 2018,
+          judul: "Electrochemical analysis of dye sensitized solar cell employing indoline-based and ruthenium-based dye combined with volatile and low-volatility solution-based electrolyte",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053508637&doi=10.1007%2fs10854-018-0051-8&partnerID=40&md5=9cfe8cbaadeb4189adb9775e49cc8fcc",
+        },
+        {
+          tahun: 2018,
+          judul: "Enhancing the efficiency of dye-sensitized solar cells by hydrothermal post-treatment in acidic environment",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045665636&doi=10.1088%2f1742-6596%2f985%2f1%2f012055&partnerID=40&md5=2632e5facadc32c219d253b0c97f1079",
+        },
+        {
+          tahun: 2018,
+          judul: "ENSO and PDO Influence to Climate Variability in Monsoon Region of Indonesia",
+          link: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050013841&doi=10.1088%2f1755-1315%2f166%2f1%2f012044&partnerID=40&md5=9f92caad04f50bdab8440fc8dd9b04dd",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Fuel Saving on Diesel Genset using PV/Battery Spike Cutting in Remote Area Microgrid",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046737088&doi=10.1051%2fmatecconf%2f201816401045&partnerID=40&md5=68ccd657ed55f03b77f5c008361c9ee6",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Highly Accurate Daily Solar Radiation Forecasting using SW-SVR for Hybrid Power Plant in Indonesia",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063524611&doi=10.1109%2fICNERE.2018.8642593&partnerID=40&md5=572a805f4108dc8f100c23a0e9c0b004",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Improving the efficiency of perovskite solar cell through the addition of compact layer under tio2 electron transfer material",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055563743&doi=10.4028%2fwww.scientific.net%2fMSF.929.218&partnerID=40&md5=b1201e07e4db5e39d98787a5f7633aee",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Ionospheric earthquake effects detection based on Total Electron Content (TEC) GPS Correlation",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045623736&doi=10.1088%2f1755-1315%2f132%2f1%2f012014&partnerID=40&md5=73e5d82f6be036587b700f870cefc0f3",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Iron and boron removal from sodium silicate using complexation methods",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047802527&doi=10.1063%2f1.5038303&partnerID=40&md5=79714c1af33c46e7a052ceba3cc97f64",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Performance of 7-cells Dye Sensitized Solar Module in Z-type Series Interconnection",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046280999&doi=10.1088%2f1757-899X%2f299%2f1%2f012088&partnerID=40&md5=e3607f0c35f5b2acf86d5b958c8a2e7b",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Performance prediction of vaccine carrier using adsorption process and 13x/cacl2 composite zeolite as adsorbent",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041651797&doi=10.1088%2f1755-1315%2f105%2f1%2f012003&partnerID=40&md5=759af1e43c224a18545a0f06ac7e05c8",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Power Generation Forecasting of Dual-Axis Solar Tracked PV System Based on Averaging and Simple Weighting Ensemble Neural Networks",
+          link: "http://dx.doi.org/10.24003/emitter.v6i2.341",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Preliminary design of communication and power subsystem for micro-satellite with maritime surveillance mission",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058218075&doi=10.1088%2f1742-6596%2f1130%2f1%2f012011&partnerID=40&md5=a300a8146f7ef5c9acdbdbe7ca54df78",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Preliminary study of natural zeolite from Bayah for solar powered cooling application",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041695550&doi=10.1088%2f1755-1315%2f105%2f1%2f012001&partnerID=40&md5=a4c36c6d39956cfa4346e1f4984e3a3b",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Reliability performance of up-scaling DSSC into sub-module in series design using hermetic sealing",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045616259&doi=10.1088%2f1742-6596%2f985%2f1%2f012052&partnerID=40&md5=6c507e7a3db55da9780b8953a1fc8e34",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Simulation Approach to Determine Position of the Fixed Installed Deployable Solar Panel",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061803275&doi=10.1109%2fICARES.2018.8547098&partnerID=40&md5=6d0a3d9dfd4de561fe2f9188a734194c",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Stability of organic solar cells with PCDTBT donor polymer: An interlaboratory study",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048888281&doi=10.1557%2fjmr.2018.163&partnerID=40&md5=c4d6f5a453007cc398cc2eef902e59ac",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Storage system manufacturability, portability and modularity for a pico hydro turbine",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056410145&partnerID=40&md5=7eee1755b60f02466b6d4cf68e4c964f",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Turning renewable energy be a dispatchable electric generation through energy management system technology: Sumba smart micro grid case",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068543377&doi=10.1109%2fICPERE.2018.8739691&partnerID=40&md5=0903acaad090e66506a7e368bd27ffb8",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "V2G Development on Public Vertical Parking Lot to Support Community Energy Management System",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046820126&doi=10.1051%2fmatecconf%2f201816401046&partnerID=40&md5=c0fe2b62a4be5c0a2087d41133bc1603",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Validation of Solar Inverter Testing Procedure for Stand-Alone PV Systems",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065102698&doi=10.1109%2fEECCIS.2018.8692977&partnerID=40&md5=6143810b2d03019955775dbc75e990a3",
+        },
+        {
+          tahun: 2018,
+          judul:
+            "Vertical profile variations of ozone in lower stratosphere in Indonesia and influence to upper troposphere ozone based on satellite",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050038151&doi=10.1088%2f1755-1315%2f166%2f1%2f012038&partnerID=40&md5=fa085e2215f48aa8f706b992f50c138a",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Comparative performance testing of solar panels for smart city micro-grids",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047464388&doi=10.1109%2fICON-SONICS.2017.8267826&partnerID=40&md5=f1ca274d4c4e6d7fbfab37c2e7cd9176",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Correlation analysis of solar constant, solar activity and cosmic ray",
+          link: "http://dx.doi.org/10.1088/1742-6596/817/1/012045",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Development of wireless sensor network for landslide monitoring system",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028554600&doi=10.1088%2f1742-6596%2f853%2f1%2f012010&partnerID=40&md5=651663833524f619d95a4b839908c64a",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Dual-axis solar tracking system: A combined astronomical estimation and visual feedback",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016931440&doi=10.1109%2fICSEEA.2016.7873573&partnerID=40&md5=459ea7478d5e74f71f5d3441447a4abb",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Electrical properties of dye-sensitized solar module with integrated parallel connections",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045912022&doi=10.1109%2fQIR.2017.8168468&partnerID=40&md5=9fdc163a4ebb528b006294897f575faa",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Experimental investigation of serial parallel and total-cross-tied configuration photovoltaic under partial shading conditions",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050759923&doi=10.1109%2fICSEEA.2017.8267699&partnerID=40&md5=d465fd5860c493f6df99400468be6c45",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Forecasting of power output of 2-Axis solar tracked PV systems using ensemble neural network",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048555112&doi=10.1109%2fELECSYM.2017.8240394&partnerID=40&md5=ffba6efc284c050070bff64c8caaea8f",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "From Cell to Module: Fabrication and Long-term Stability of Dye-sensitized Solar Cells",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026252545&doi=10.1088%2f1757-899X%2f214%2f1%2f012007&partnerID=40&md5=9010a456d01ced9c5bd11cd6253b13a6",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Hybrid energy system design of micro hydro-PV-biogas Based micro-grid",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016636936&doi=10.1088%2f1757-899X%2f180%2f1%2f012080&partnerID=40&md5=b9e8d082cc16b0ea25ebd734376e3e9d",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Impact of the Seed Layer Morphology On the Initial Growth of HPMC-Si Ingot",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029352065&doi=10.1002%2fpssc.201700177&partnerID=40&md5=3834af1aeca2677f67450bcf7a36fae2",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Load sharing control between PV power plant and diesel generator to mitigate effect of PV fluctuation using PID algorithm",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042793975&doi=10.1109%2fICHVEPS.2017.8225930&partnerID=40&md5=887aa9dff898f8b9adfea97fb581f2e8",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Low-cost monolithic dye-sensitized solar cells fabricated on single conductive substrate",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049610466&doi=10.1109%2fICRAMET.2017.8253168&partnerID=40&md5=6b15c3484db14c0d1ff9765ca69bc1d7",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Performance analysis of photovoltaic modules in Baiturrahman Islamic boarding school",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85017014855&doi=10.1109%2fICSEEA.2016.7873566&partnerID=40&md5=c8a4fffbbf3f8d6794df7319f1769462",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Post-treatments to enhance vertical alignment of ZnO nanorods on glass substrates by hydrothermal deposition",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027359153&doi=10.4028%2fwww.scientific.net%2fMSF.901.44&partnerID=40&md5=174e9a27ec5ccff49f14f9b2897191b6",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Simulation of Buck-Boost Converter for Solar Panels using PID Controller",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028544775&doi=10.1016%2fj.egypro.2017.05.011&partnerID=40&md5=c5248e61b8d2db909ea94b9d15104adb",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Smart Diesel Generator to compensate on-grid PV fluctuation: A case study in Sumba Island Indonesia",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019241200&doi=10.1109%2fICPERE.2016.7904847&partnerID=40&md5=087569f811c8afcf422f63072a62a18d",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "The effect of initial growth interface on the grain structure in HPMC-Si ingot",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050795324&doi=10.1109%2fICSEEA.2017.8267705&partnerID=40&md5=c6b080b426b2aaeab42852a776babb91",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "The effect of substrate heating temperature upon spray pyrolysis process on the morphological and functional properties of fluorine tin oxide conducting glass",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85017654832&doi=10.1063%2f1.4979219&partnerID=40&md5=6dc3c01cb37e49c5b6eae02d2f3f4b9b",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "The effect of various precursors and solvents on the characteristics of fluorine-doped tin oxide conducting glass fabricated by ultrasonic spray pyrolysis",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85039071204&doi=10.14716%2fijtech.v8i7.693&partnerID=40&md5=831f3cc03338e106a7444b0661296fa8",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "The influence of the addition of dye surface modifier on the performance of transparent dye sensitized solar cells",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85038963720&doi=10.1063%2f1.5011907&partnerID=40&md5=e982173ed5658833ea726427ef0f4d94",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "The Temperature Effect on the Working Characteristics of Solar Cells Based on Organometal Halide Perovskite Crystals",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85030159141&doi=10.1088%2f1742-6596%2f877%2f1%2f012043&partnerID=40&md5=2ca02a450033f51cb548558051385de0",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "TiO2 Nanorods Preparation from Titanyl Sulphate Produced by Dissolution of Ilmenite",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016606045&doi=10.1088%2f1757-899X%2f176%2f1%2f012042&partnerID=40&md5=05309f71e39cb58fa39741b9cddc3664",
+        },
+        {
+          tahun: 2017,
+          judul:
+            "Vertical facade PV installation to optimize microgrid system on high rise EV parking lot with AC and DC charging station",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046754257&doi=10.1109%2fICSEEA.2017.8267703&partnerID=40&md5=69adecc3d75aeed1f8d24b265bb2c286",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Architecture and engineering of hydrogen fuel cell power generation based on renewable energy",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84998723961&doi=10.4028%2fwww.scientific.net%2fKEM.708.110&partnerID=40&md5=99ce192122149466cdfa2ad0b0b226e3",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Comparative performance testing of photovoltaic modules in tropical climates of Indonesia",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84984560568&doi=10.1063%2f1.4941865&partnerID=40&md5=4cb8fc38927a728a6927846805760be7",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Coronal structure analysis based on the potential field source surface modeling and total solar eclipse observation",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85007044379&doi=10.1088%2f1742-6596%2f771%2f1%2f012034&partnerID=40&md5=accb2b044e52799dc77a41ad53630ac9",
+        },
+        {
+          tahun: 2016,
+          judul: "Critical condition in CuInAlSe2 solar cell absorbers",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84994643781&doi=10.12928%2fTELKOMNIKA.v14i3.3644&partnerID=40&md5=8b91aa7083354468566d393110214160",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Effect of sintering temperatures and screen printing types on TiO2 layers in DSSC applications",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84984582361&doi=10.1063%2f1.4943444&partnerID=40&md5=84376bd5b00b3c09d09b2e08cd0dddc0",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Enhancement ZnO nanofiber as semiconductor for dye-sensitized solar cells by using Al doped",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84984559358&doi=10.1063%2f1.4943449&partnerID=40&md5=c3845b12c7f3c7482ffc0a9b99c0ff25",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Fabrication of organic solar cells with design blend P3HT: PCBM variation of mass ratio",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84959875179&doi=10.1088%2f1757-899X%2f107%2f1%2f012050&partnerID=40&md5=fe9093f1a237812de6d736be08aec1ea",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Flexible polymer solar cells sub-modules using different cells dimension",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84984588798&doi=10.1063%2f1.4941619&partnerID=40&md5=673cd26a0ff538afff98f7bb3452d07f",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Influences mass concentration of P3HT and PCBM to application of organic solar cells",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85012964584&doi=10.1088%2f1742-6596%2f776%2f1%2f012012&partnerID=40&md5=4e30e5e1cd2eeb6220390922e95acadd",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Ludendorff coronal flattening index of the total solar eclipse on March 9, 2016",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85007028314&doi=10.1088%2f1742-6596%2f771%2f1%2f012005&partnerID=40&md5=0b5d6ce8b772dd7aa54595fdbb38ce24",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Optical transmittance, electrical resistivity and microstructural characteristics of undoped and fluorine-doped tin oxide conductive glass fabricated by spray pyrolysis technique with modified ultrasonic nebulizer",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010295374&doi=10.14716%2fijtech.v7i8.6885&partnerID=40&md5=4acc6b3861d847ae9c98e864ef9a3b27",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Optimization of TiO2 photoelectrode with titanium isopropoxide for flexible dye sensitized solar cells",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84984538772&doi=10.1063%2f1.4946918&partnerID=40&md5=0f4efda7a0f3b8584443e25119179c62",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Performance analysis of crystalline (poly-Si) and thin film (a-Si/μc-Si) photovoltaic systems",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84962653182&partnerID=40&md5=bb5facbcfdd1743d49dab798e30de0e1",
+        },
+        {
+          tahun: 2016,
+          judul: "Performance Analysis of Flexible DSSC with Binder Addition",
+          link: "http://dx.doi.org/10.1063/1.4945504",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Perovskite/polymer solar cells prepared using solution process",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85012970427&doi=10.1088%2f1742-6596%2f776%2f1%2f012010&partnerID=40&md5=fb842f809d8ae6c99a1db2a82a0d599b",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "Stability optimization of TiO2 dye-sensitized solar sub-modules in Z-type series interconnection",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84990895517&doi=10.1109%2fSMELEC.2016.7573647&partnerID=40&md5=87ee865c155ab8e9ac20c5c65ed47fb9",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "The influence of deposition time and substrate temperature during the spray pyrolysis process on the electrical resistivity and optical transmittance of 2 wt% fluorine-doped tin oxide conducting glass",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010465875&doi=10.14716%2fijtech.v7i8.7065&partnerID=40&md5=fb9801d010114d016eaa358fd431e620",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "The influence of material type and composition of TiO2- ZnO on manufacturing of paste for the application of DSSC",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85012951272&doi=10.1088%2f1742-6596%2f776%2f1%2f012009&partnerID=40&md5=fcc66a1bd6c93c472e02081e7f834fd5",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "The influence of material type and composition of TiO2-ZnO on manufacturing of paste for the application of DSSC",
+          link:
+            "http://dx.doi.org/10.1088/1742-6596/776/1/012009",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "The influence of the composition of P3HT:TiO2 on the characteristics of hybrid polymer solar cell",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84959887721&doi=10.1088%2f1757-899X%2f107%2f1%2f012037&partnerID=40&md5=f2602b301a38b4c3cf042b6f9ca43b95",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "The influence of the organic solar cell open-circuit voltage and short-circuit current parameters on the porosity of titanium electrode",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84966550932&doi=10.1109%2fICACOMIT.2015.7440187&partnerID=40&md5=70025d9a959e37b5f1efe1ed9c8eff68",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "The Result of Synthesis Analysis of the Powder TiO2/ZnO as a layer of Electrodes for Dye Sensitized Solar Cell",
+          link: "http://dx.doi.org/10.1063/1.4945523",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "The result of synthesis analysis of the powder TiO2/ZnO as a layer of electrodes for dye sensitized solar cell applications",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84984576811&doi=10.1063%2f1.4945523&partnerID=40&md5=028a2831d636dd04a3200829fd961591",
+        },
+        {
+          tahun: 2016,
+          judul:
+            "The study of FTO surface texturing fabrication using Argon plasma etching technique for DSSC applications",
+          link: "http://dx.doi.org/10.1088/1757-899X/107/1/012028",
+        },
+        {
+          tahun: 2015,
+          judul:
+            "Astronomy algorithm simulation for two degrees of freedom of solar tracking mechanism using Clanguage",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84947427857&doi=10.1016%2fj.egypro.2015.03.233&partnerID=40&md5=917e6f11759f91c51b998b6c4d495ee6",
+        },
+        {
+          tahun: 2015,
+          judul:
+            "Correlation between solar activity and El Niño Southern Oscillation (ENSO)",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84984577715&doi=10.1063%2f1.4930679&partnerID=40&md5=9049539617f8187f0a49f0467c6043b9",
+        },
+        {
+          tahun: 2015,
+          judul:
+            "Design of single phase inverter using microcontroller assisted by data processing applications software",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84960153654&doi=10.1088%2f1757-899X%2f100%2f1%2f012009&partnerID=40&md5=dc22c7610209cd6487465dd881e7ff08",
+        },
+        {
+          tahun: 2015,
+          judul:
+            "Engineering nanostructural routes for enhancing thermoelectric performance: Bulk to nanoscale",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84969542838&doi=10.3389%2ffchem.2015.00063&partnerID=40&md5=7a7f512591f36e3a4c04c3c0b9fdf4a3",
+        },
+        {
+          tahun: 2015,
+          judul:
+            "Fabrication of dye sensitized solar cells with spray coated carbon nano tube (CNT) based counter electrodes",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945173626&doi=10.1016%2fj.egypro.2015.03.230&partnerID=40&md5=271a660d36889237ce55ef5e50e7a37c",
+        },
+        {
+          tahun: 2015,
+          judul:
+            "Factors influencing the behavioral intention of public transport passengers",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84938694483&doi=10.1108%2fIJQRM-01-2013-0002&partnerID=40&md5=1c4f7978e257654935a5ae65c5171408",
+        },
+        {
+          tahun: 2015,
+          judul:
+            "The Investigation of CuOx Anode Interlayer Effect in Working Performance and Charge Carrier Transport in Hybrid Solar Cells with Inverted Structure",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937909480&doi=10.1002%2fmasy.201550316&partnerID=40&md5=b403942afa64590a0f9f9dbe5d4ca094",
+        },
+        {
+          tahun: 2015,
+          judul:
+            "Tropical marine Chlorella sp. PP1 as a source of photosynthetic pigments for dye-sensitized solar cells",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937573247&doi=10.1016%2fj.algal.2015.04.009&partnerID=40&md5=60cf31e2682ddab76e6d4f169744591a",
+        },
+        {
+          tahun: 2014,
+          judul: "Development of two axis solar tracking using five photodiodes",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84949923203&doi=10.1109%2fEECCIS.2014.7003716&partnerID=40&md5=152b097e7549840bfdbb8a0da3e3da75",
+        },
+        {
+          tahun: 2014,
+          judul:
+            "Formation of solar cells based on Ba0.5 Sr0.5 TiO3 (BST) ferroelectric thick film",
+          link:
+            "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906485305&doi=10.1063%2f1.4866724&partnerID=40&md5=231cd453e5652031a2ea72321d75f8b1",
+        },
+        {
+          tahun: 2014,
+          judul:
+            "FORMATION of SOLAR CELLS BASED ON Ba0.5Sr0.5TiO3 (BST) FERROELECTRIC THICK FILM",
+          link: "http://dx.doi.org/10.1063/1.4866724",
+        },
+        {
+          tahun: 2014,
+          judul:
+            "Series-Interconnected Plastic Dye-Sensitized Solar Cells Prepared by Low-Temperature Binder-Free Titania Paste",
+          link: "http://dx.doi.org/10.7454/mst.v18i2.2949",
+        },
     ];
 
 
