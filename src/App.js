@@ -23,7 +23,8 @@ import EnergiSuryaRiset from './pages/riset/energi-surya';
 
 function App() {
   return (
-    <Router>
+    <div id='app' className='overflow-x-hidden w-screen max-w-full'>
+      <Router>
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} /> {/* Mengatur rute default */}
@@ -50,6 +51,7 @@ function App() {
         </Routes>
       </Layout>
     </Router>
+    </div>
   );
 }
 

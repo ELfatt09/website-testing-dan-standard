@@ -11,7 +11,7 @@ const MapWithProvider = ({ provider, coordinates }) => {
     }
     return (
         <div>
-            <MapContainer center={coordinates} zoom={13} style={{ height: '200px', width: '100%' }}>
+            <MapContainer center={coordinates} zoom={13} style={{ height: '200px', width: '100%', zIndex: 0 }}>
                 <TileLayer
                     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
