@@ -65,35 +65,30 @@ const Home = () => {
   </div>
 </section>
 
-<section className="container mx-auto">
-  <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 my-4 p-3 rounded-lg">
-    <div className="" data-aos="slide-right" data-aos-duration="1000" data-aos-delay="200">
-      <img src={process.env.PUBLIC_URL + "/File/image/panel.jpg"} alt="Standard and Testing" className="w-full rounded-lg" />
+<section className="flex flex-row md:flex-col px-6 py-8 space-y-8">
+  <div className="flex flex-col md:flex-row gap-6 md:gap-8 bg-white shadow-lg rounded-lg overflow-hidden w-2/5">
+    <div className="w-full md:w-1/3 relative h-[250px]" data-aos="slide-right" data-aos-duration="1000" data-aos-delay="200">
+      <img src={process.env.PUBLIC_URL + "/File/image/panel.jpg"} alt="Standard and Testing" className="absolute inset-0 w-full h-full object-cover" />
+      <div className="absolute inset-0 bg-gradient-to-t from-transparent to-black opacity-50"></div>
+      <div className="absolute inset-0 flex items-center justify-center p-4">
+        <p className="text-white text-center">The government of Indonesia has set several standards for various RE energy technologies...</p>
+      </div>
     </div>
-    <div className="flex items-center justify-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-      <div>
-        <h3 className="text-2xl font-semibold">Standard and Testing</h3>
-        <hr className="my-2" />
-        <p className="text-gray-600">The government of Indonesia has set several standards for various RE energy technologies...</p>
-        <a className="btn btn-outline-info px-4 py-2 rounded-full border border-blue-500 text-blue-500" href="/">Lorem</a>
-    </div>
+    <div className="flex flex-col items-center justify-center p-6 md:w-2/3" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+      <Link className="px-4 py-2 bg-blue-500 text-white rounded-full shadow-md hover:bg-blue-600 transition-colors" to="/standard">Learn More</Link>
     </div>
   </div>
 
-  <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 my-4 p-3 rounded-lg">
-    <div className="block lg:hidden" data-aos="slide-left" data-aos-duration="1000" data-aos-delay="200">
-      <img src={process.env.PUBLIC_URL + "/File/image/hydropower.jpg"} alt="Regulation and Research" className="w-full rounded-lg" />
-    </div>
-    <div className="flex items-center justify-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-      <div>
-        <h3 className="text-2xl font-semibold">Regulation and Research</h3>
-        <hr className="my-2" />
-        <p className="text-gray-600">The Indonesian government has established and implemented various regulations...</p>
-        <a className="btn btn-outline-info px-4 py-2 rounded-full border border-blue-500 text-blue-500" href="/">Lorem</a>
+  <div className="flex flex-col md:flex-row gap-6 md:gap-8 bg-white shadow-lg rounded-lg overflow-hidden w-2/5">
+    <div className="w-full md:w-1/3 relative h-[250px]" data-aos="slide-left" data-aos-duration="1000" data-aos-delay="200">
+      <img src={process.env.PUBLIC_URL + "/File/image/hydropower.jpg"} alt="Regulation and Research" className="absolute inset-0 w-full h-full object-cover" />
+      <div className="absolute inset-0 bg-gradient-to-t from-transparent to-black opacity-50"></div>
+      <div className="absolute inset-0 flex items-center justify-center p-4">
+        <p className="text-white text-center">The Indonesian government has established and implemented various regulations...</p>
       </div>
     </div>
-    <div className="hidden lg:block" data-aos="slide-left" data-aos-duration="1000" data-aos-delay="200">
-      <img src={process.env.PUBLIC_URL + "/File/image/hydropower.jpg"} alt="Regulation and Research" className="w-full rounded-lg" />
+    <div className="flex flex-col items-center justify-center p-6 md:w-2/3" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+      <Link className="px-4 py-2 bg-blue-500 text-white rounded-full shadow-md hover:bg-blue-600 transition-colors" to="/riset">Learn More</Link>
     </div>
   </div>
 </section>

@@ -119,7 +119,7 @@ function Layout({ children }) {
             </section>
 
             {/* Main Content */}
-            <main className="py-8">
+            <main className="py-8 bg-gray-50">
                 <div className="mx-auto">
                     {children}
                 </div>
